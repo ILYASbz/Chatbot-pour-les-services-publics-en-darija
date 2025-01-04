@@ -1,0 +1,1060 @@
+[
+  {
+    "input": "شنو هو التأمين الإجباري عن المرض (AMO)؟",
+    "output": "التأمين الإجباري عن المرض هو نظام كيغطي مصاريف العلاج للناس اللي عندهم سميتو خاص باش يقدرو يستافدو من التغطية الصحية. الهدف ديالو هو تحسين الولوج للخدمات الطبية لجميع المواطنين.",
+    "instruction": "Expliquez le concept du système d’assurance maladie obligatoire (AMO) au Maroc, en mettant l’accent sur son objectif d'améliorer l'accès aux soins de santé pour tous les citoyens."
+  }
+  ,
+  {
+    "input": "كيفاش نقدر نستافد من خدمات AMO فالمغرب؟",
+    "output": "خصك تكون مسجل فالصندوق الوطني للضمان الاجتماعي (CNSS) أو في الصندوق ديال التأمين الصحي ديال الموظفين. خاصك كذلك تدير تحديث للمعلومات ديالك كل سنة باش تضمن الاستفادة المستمرة.",
+    "instruction": "Détaillez les démarches administratives nécessaires pour bénéficier de l'AMO au Maroc, y compris l'inscription à la CNSS ou au système de couverture des fonctionnaires, et précisez l’importance de la mise à jour annuelle des informations."
+  }
+  ,
+  {
+    "input": "واش التغطية الصحية الإجبارية كتشمل الأمراض المزمنة؟",
+    "output": "نعم، AMO كيغطي الأمراض المزمنة بحال السكر، الضغط، السرطان، وغيرها. بالنسبة للأدوية، كاينين خصائص وقيود في التغطية، فمثلا الأدوية الموصوفة لعلاج الأمراض المزمنة تكون مغطاة بالكامل إلا في حالات معينة.",
+    "instruction": "Expliquez que l’AMO couvre les maladies chroniques, mais précisez également les détails sur la couverture des médicaments et les exceptions possibles."
+  }
+  ,
+  {
+    "input": "شنو هي الخدمات اللي كيقدمها التعليم العمومي فالمغرب؟",
+    "output": "التعليم العمومي فالمغرب كيقدم خدمات متنوعة تشمل التعليم الابتدائي، الإعدادي، والثانوي، وصولاً للتعليم الجامعي. كيشمل كذلك برامج دعم التلاميذ ذوي الاحتياجات الخاصة، بالإضافة إلى الدورات التكوينية في بعض المراكز الجهوية.",
+    "instruction": "Décrivez les différents niveaux d'enseignement public au Maroc, y compris les programmes de soutien pour les élèves en situation de handicap et les formations proposées dans les centres régionaux."
+  }
+  ,
+  {
+    "input": "كيفاش نقدر نسجل ولدي فالمدرسة العمومية؟",
+    "output": "باش تسجل ولدك فالمدرسة العمومية، خاصك تمشي للمؤسسة التعليمية في بداية الموسم الدراسي وتجيب معاك الوثائق المطلوبة بحال الحالة المدنية، صورة حديثة، شهادة السكنى، وأي مستندات أخرى تطلبها الإدارة. كاينين أيضا مواعيد محددة للتسجيل في بعض المناطق.",
+    "instruction": "Expliquez en détail les étapes et les documents nécessaires pour inscrire un enfant dans une école publique au Maroc, et mentionnez les dates limites de l'inscription selon les régions."
+  }
+  ,
+  {
+    "input": "واش كاين شي دعم للتلاميذ فالتعليم العمومي؟",
+    "output": "نعم، كاين برنامج \"تيسير\" اللي كيقدم دعم مالي للتلاميذ من الأسر المعوزة. هذا البرنامج كيغطي مصاريف النقل المدرسي، الكتب المدرسية، والأنشطة الرياضية والثقافية. كاين كذلك دعم خاص للتلاميذ المتفوقين في بعض التخصصات.",
+    "instruction": "Décrivez les différents types de soutien financier offerts par le programme \"Taysir\", incluant les aides pour les transports, les fournitures scolaires et les activités parascolaires, ainsi que les bourses pour les élèves brillants."
+  }
+  ,
+  {
+    "input": "شنو هي الإجراءات باش نستافد من \"راميد\"؟",
+    "output": "باش تستافد من برنامج RAMED، خاصك تمشي للمقاطعة أو المكتب المسؤول عن التغطية الصحية وتعمّر استمارة. من بعد، غادي يعطيوك كود الاستفادة اللي كيتيح ليك الوصول للتغطية الصحية المجانية أو منخفضة التكلفة. كذلك، خاصك تكون مسجل في السجل الاجتماعي.",
+    "instruction": "Expliquez les démarches pour bénéficier du programme RAMED, incluant l'inscription dans la commune, la soumission du formulaire et l'obtention du code d'accès à la couverture santé."
+  }
+  ,{
+    "input": "شنو كيحتاج الواحد باش يدير بطاقة راميد؟",
+    "output": "باش تدير بطاقة RAMED، خاصك تقدم بطاقة تعريف وطنية سارية وصور شخصية حديثة. كذلك، خاصك تدير تحديث للمعلومات العائلية، بحال عدد أفراد الأسرة ومواردهم المالية. هاد الوثائق كتساعد في تحديد الاستحقاق للبرنامج.",
+    "instruction": "Détaillez les documents requis pour l’obtention de la carte RAMED, y compris la carte d'identité, les photos, et les informations sur la composition du foyer et les ressources."
+  }
+  ,{
+    "input": "كيفاش كتخدم المستشفيات العمومية فالمغرب؟",
+    "output": "المستشفيات العمومية فالمغرب كتستقبل المرضى وتقدم ليهم خدمات طبية متكاملة، من الفحص الأولي للعلاج وحتى الجراحة. الخدمات هادي غالباً كتكون مجانية أو بتكلفة منخفضة، ولكن في بعض الحالات خاص المريض يساهم في بعض التكاليف حسب حالتو الاجتماعية. كاينين مستشفيات كتقدم خدمات طبية في مجموعة من التخصصات.",
+    "instruction": "Expliquez comment fonctionnent les hôpitaux publics au Maroc, y compris les services offerts et les coûts associés, en détaillant la couverture des soins et les exceptions possibles."
+  }
+  ,{
+    "input": "واش كاين شي مستشفيات خاصين بعلاج أمراض العيون؟",
+    "output": "نعم، كاينين مستشفيات متخصصة في علاج أمراض العيون بحال مستشفى 20 غشت اللي كيقدم خدمات متقدمة في هذا المجال. هاد المستشفيات كتوفّر فحوصات طبية متخصصة وعلاج أمراض العيون بحال المياه الزرقاء، قصر النظر، والاستجماتيزم.",
+    "instruction": "Informez qu’il existe des hôpitaux spécialisés dans les maladies oculaires, en détaillant les services offerts et les pathologies traitées, comme l'hôpital 20 Août."
+  }
+  ,{
+    "input": "شنو الدور ديال مراكز الاستشفاء الجماعي؟",
+    "output": "مراكز الاستشفاء الجماعي كتقدّم خدمات طبية أساسية للأشخاص اللي كايعيشو في المناطق النائية بعيداً عن المدن الكبرى. هاد المراكز كتقدم فحوصات طبية عامة، علاج الأمراض البسيطة، وتوزيع الأدوية. بعض المراكز كتكون متخصصة في الوقاية والرعاية الصحية الأولية.",
+    "instruction": "Décrivez le rôle des centres de soins communautaires dans les zones rurales, en expliquant les services médicaux de base offerts, y compris les soins préventifs et le traitement des maladies courantes."
+  }
+  ,
+  {
+    "input": "واش النقل العمومي كيغطي جميع المدن فالمغرب؟",
+    "output": "النقل العمومي، بحال الحافلات والقطارات، كيغطي بشكل كبير المدن الكبيرة بحال الرباط، الدار البيضاء، وفاس. أما القرى الصغيرة والمناطق النائية، فهي مازال غير موصولة بشكل كافي، خاصة بالنسبة للحافلات. لكن الحكومة كتسعى لتحسين التغطية فالمستقبل.",
+    "instruction": "Expliquez que le transport public couvre principalement les grandes villes, mais que les zones rurales et petites villes sont encore sous-desservies, avec des projets d'amélioration à venir."
+  }
+  ,
+  {
+    "input": "كيفاش نقدر نستافد من بطاقة النقل العمومي؟",
+    "output": "باش تستافد من بطاقة النقل العمومي، خاصك تشري بطاقة التنقل في مراكز البيع التابعة لشركات النقل، بحال الحافلات أو القطارات. بعض الشركات كتوفر تخفيضات للطلاب، المسنين، أو الأشخاص في وضعية صعبة.",
+    "instruction": "Décrivez le processus d’obtention d'une carte de transport public, en mentionnant les réductions possibles pour certaines catégories de personnes comme les étudiants et les personnes âgées."
+  }
+  ,
+  {
+    "input": "شنو هي الفائدة من خدمات الدرك الملكي؟",
+    "output": "الدرك الملكي كيتكلف بالأمن فالمناطق القروية والمناطق اللي بعيدة عن المدن الكبرى. كيضمن الأمن وكيواجه الجرائم اللي كيمكن تكون في هاد المناطق، إضافة إلى تنظيم السير والمراقبة على الطرق.",
+    "instruction": "Expliquez le rôle du Gendarmerie royale dans la sécurité des zones rurales et dans la régulation du trafic, en plus de la lutte contre la criminalité."
+  }
+  ,{
+    "input": "كيفاش نقدر نطلب الخدمة ديال الإسعاف فالطوارئ؟",
+    "output": "باش تطلب الإسعاف فالطوارئ، خاصك تتصل برقم 141 اللي هو الرقم الوطني للإسعاف، أو تقدر تمشي مباشرة لأقرب مستشفى فحالة طارئة. بعض الحالات، كيكون عندك خيار الاستعانة بمراكز طبية قريبة.",
+    "instruction": "Décrivez les démarches pour demander une ambulance en cas d'urgence, en précisant le numéro à appeler (141) et les options disponibles selon la situation."
+  }
+  ,
+  {
+    "input": "واش الشرطة كتخدم فالمناطق القروية؟",
+    "output": "الشرطة كتعمل أساساً في المدن الكبرى والمناطق الحضرية، بينما الدرك الملكي هو اللي مكلف بالأمن فالمناطق القروية والطرق بين المدن. ومع ذلك، فبعض الحالات الطارئة، الشرطة كتتعاون مع الدرك الملكي لتنفيذ المهام المشتركة.",
+    "instruction": "Clarifiez que la police est principalement présente dans les zones urbaines et que le Gendarmerie royale prend en charge les zones rurales et les routes, tout en mentionnant leur coopération éventuelle."
+  }
+  ,
+  {
+    "input": "شنو الخدمات اللي كتقدمها المحاكم المغربية؟",
+    "output": "المحاكم المغربية كتضمن العدالة وكتفصل فالنزاعات القانونية بين الأفراد والمؤسسات، سواء كانت نزاعات مدنية، تجارية، أو جنائية. بالإضافة إلى ذلك، المحاكم كتعالج قضايا الأسرة كالزواج والطلاق، وكتتولى محاكمة الجرائم والعقوبات.",
+    "instruction": "Expliquez les services offerts par les tribunaux marocains, y compris le traitement des différends civils, commerciaux, pénaux et familiaux."
+  }
+  ,
+  {
+    "input": "كيفاش نقدر نحصل على وثائق إدارية من المقاطعة؟",
+    "output": "باش تحصل على وثائق إدارية من المقاطعة، خاصك تمشي مباشرة للمقاطعة وتطلب الوثيقة اللي بغيتها، بحال شهادة السكنى أو شهادة الحياة. بعض الوثائق يمكن تحصّل عليها إلكترونياً عبر المواقع الحكومية الخاصة.",
+    "instruction": "Détaillez les étapes pour obtenir des documents administratifs, comme un certificat de résidence ou de vie, et mentionnez les possibilités de demande en ligne."
+  }
+  ,{
+    "input": "واش كاين شي دعم للناس اللي كيتعالجوا فالسرطان؟",
+    "output": "نعم، كاينين جمعيات طبية غير ربحية، بحال جمعية محاربة السرطان، اللي كتوفر الدعم والمساعدة للمصابين بالسرطان. بعض المستشفيات الحكومية كتوفر خدمات مجانية أو منخفضة التكلفة للمرضى.",
+    "instruction": "Expliquez les programmes de soutien pour les patients atteints de cancer au Maroc, incluant les associations et les services hospitaliers gratuits."
+  }
+  ,{
+    "input": "شنو هي المصاريف اللي كيغطيها التأمين الإجباري عن المرض؟",
+    "output": "التأمين الإجباري عن المرض (AMO) كيغطي مجموعة من المصاريف الطبية مثل الأدوية، التحاليل الطبية، والفحوصات. بالإضافة إلى ذلك، التأمين كيغطي تكاليف العلاج في المستشفيات والمراكز الصحية، سواء كانت للمرضى الداخليين أو الخارجيين.",
+    "instruction": "Décrivez les dépenses couvertes par l'AMO, comme les médicaments, les analyses, et les soins hospitaliers."
+  }
+  ,{
+    "input": "واش كاين شي برنامج لمساعدة الفلاحين الصغار فالمغرب؟",
+    "output": "نعم، برنامج \"المغرب الأخضر\" كيقدم دعم مباشر للفلاحين الصغار في شكل مساعدات مادية لتطوير المزارع، وتجهيزات زراعية، وأسمدة. هذا البرنامج كيهدف إلى تحسين الإنتاجية الفلاحية ودعم الفلاحين لتحقيق الأمن الغذائي.",
+    "instruction": "Décrivez le programme \"Le Maroc Vert\" et son impact sur le soutien aux petits agriculteurs, y compris les équipements agricoles et l'aide financière."
+  }
+  ,
+  {
+    "input": "شنو هي الخدمات اللي كتقدمها مكاتب الحالة المدنية؟",
+    "output": "مكاتب الحالة المدنية كتسجل الأحداث القانونية المهمة مثل الولادات، الزواج، والطلاق، وكتعطي الناس الوثائق الرسمية المطلوبة بحال شهادة الازدياد، شهادة الوفاة، وشهادات الزواج. بالإضافة لذلك، كتقدم بعض الخدمات المتعلقة بتغيير الحالة الاجتماعية أو تصحيح الوثائق.",
+    "instruction": "Expliquez les services offerts par les bureaux de l'état civil, y compris l'enregistrement des naissances, mariages, divorces et la délivrance de certificats."
+  }
+  ,
+
+  
+  {
+    "input": "كيفاش كتخدم دار الطالبة للطالبات فالقرى؟",
+    "output": "دار الطالبة كتستقبل الطالبات اللي جايين من مناطق نائية وكتوفر ليهم سكن مجاني أو بثمن رمزي. كتوفر ليهم كمان الوجبات اليومية والأنشطة الثقافية والتعليمية. الهدف هو تسهيل الدراسة وتوفير بيئة مناسبة للطالبة اللي ماعندهاش الإمكانيات للعيش فالمدينة.",
+    "instruction": "Expliquez en détail le fonctionnement des maisons des étudiantes, notamment dans les zones rurales, en mentionnant les services offerts, comme le logement, la nourriture et les activités."
+  },
+  {
+    "input": "شنو هو دور وكالة التنمية الاجتماعية؟",
+    "output": "الوكالة ديال التنمية الاجتماعية كتسهر على تنفيذ مشاريع لدعم الفئات الهشة مثل النساء، الشباب، والأشخاص في وضعية صعبة. كتشجع على المبادرات الاجتماعية والتعليمية، وكتدير برامج تكوين مهني باش تساعد الناس على الاندماج في سوق الشغل.",
+    "instruction": "Décrivez le rôle de l'Agence de développement social, en particulier dans le soutien aux jeunes, aux femmes et aux personnes vulnérables."
+  },
+  {
+    "input": "واش كاين دعم للناس اللي بغاو يفتحوا مشاريع صغرى؟",
+    "output": "نعم، كاينين برامج حكومية مثل \"انطلاقة\" و\"مقاولتي\" اللي كتقدم قروض ميسرة، استشارات ومساعدات تقنية لتمويل المشاريع الصغيرة والمتوسطة. هاد البرامج كتهدف إلى تحفيز روح المبادرة والمساهمة في تنمية الاقتصاد المحلي.",
+    "instruction": "Expliquez les programmes de soutien pour les personnes souhaitant ouvrir des petites entreprises, y compris les prêts, conseils et aides techniques."
+  },
+  {
+    "input": "شنو كيعني بطاقة الانخراط فالضمان الاجتماعي؟",
+    "output": "بطاقة الانخراط فالضمان الاجتماعي هي وثيقة كتمنحك الحق في الاستفادة من التغطية الصحية الأساسية والخدمات الاجتماعية الأخرى، بحال التعويضات العائلية أو التقاعد. كتسهل الوصول إلى العلاجات الصحية وتخفف من المصاريف الصحية.",
+    "instruction": "Décrivez ce qu'est la carte d'adhésion à la sécurité sociale et ses avantages pour la couverture des soins et des services sociaux."
+  },
+  {
+    "input": "كيفاش كيتوزع الدعم المدرسي للتلاميذ القرويين؟",
+    "output": "الدعم المدرسي في القرى كيتوزع عن طريق مشاريع من طرف الحكومة أو جمعيات خيرية. كيشمل توزيع الكتب المدرسية، الأدوات المكتبية، والنقل المدرسي المجاني أو المدعوم لتسهيل وصول التلاميذ للمؤسسات التعليمية. الهدف هو ضمان تكافؤ الفرص التعليمية للأطفال القرويين.",
+    "instruction": "Expliquez comment le soutien scolaire est distribué dans les zones rurales, y compris l'aide matérielle, le transport scolaire et les initiatives visant à égaliser les chances."
+  },
+  {
+    "input": "شنو الدور ديال الجمعيات الطبية فالمغرب؟",
+    "output": "الجمعيات الطبية فالمغرب كتقوم بتنظيم حملات طبية مجانية فالمناطق النائية والمحرومة، كتوفر فحوصات طبية أساسية، كتعالج بعض الأمراض وتقدم الأدوية. الهدف من هاد الجمعيات هو توعية المواطنين بالمشاكل الصحية، وتشجيع الكشف المبكر عن الأمراض.",
+    "instruction": "Décrivez le rôle des associations médicales au Maroc, en particulier dans les zones reculées, en incluant les services gratuits offerts comme les consultations et les médicaments."
+  }
+,
+
+
+  {
+    "input": "واش ممكن نستافد من خدمات الإسعاف الجوي؟",
+    "output": "نعم، الإسعاف الجوي كيتواجد فبعض الحالات الطارئة فالمناطق النائية. كيتم استخدامه بشكل خاص فالحالات الطبية العاجلة اللي كتستدعي نقل المرضى إلى المستشفيات في المناطق البعيدة عن الخدمات الصحية.",
+    "instruction": "Explique dans quelles situations et pour quelles raisons les services de secours aériens peuvent être utilisés, en mettant l'accent sur les zones éloignées et les situations d'urgence."
+  },
+  {
+    "input": "شنو كيقدم الصندوق الوطني للضمان الاجتماعي (CNSS) من خدمات؟",
+    "output": "الصندوق الوطني للضمان الاجتماعي (CNSS) كيقدم مجموعة من الخدمات المتعلقة بالتأمين الصحي، التعويضات في حالة العجز أو المرض، وتعويضات التقاعد. بالإضافة إلى ذلك، يوفر تغطية صحية لأفراد الأسرة وفق شروط معينة.",
+    "instruction": "Détaille les différents services fournis par le CNSS, en spécifiant les types de couvertures santé, les compensations en cas de maladie, et les conditions de couverture pour les membres de la famille."
+  },
+  {
+    "input": "كيفاش نقدر نتحصل على جواز السفر المغربي؟",
+    "output": "يمكنك التقدم للحصول على جواز السفر المغربي من خلال زيارة وكالة حكومية مختصة أو عبر التقديم الإلكتروني على موقع الحكومة. بعد ذلك، يجب تقديم بعض الوثائق الضرورية مثل البطاقة الوطنية، صور شمسية، وتعبئة نموذج الطلب.",
+    "instruction": "Explique les étapes détaillées pour obtenir un passeport marocain, y compris les options de demande en ligne et les documents nécessaires."
+  },
+  {
+    "input": "شنو هي شروط التسجيل فالجامعات العمومية؟",
+    "output": "لتسجيل في الجامعات العمومية، يجب على الطالب أن يكون قد حصل على شهادة البكالوريا من مؤسسة معترف بها. يتطلب البعض من التخصصات درجات محددة في الباك أو اجتياز امتحانات إضافية. بالإضافة إلى ذلك، يتعين تقديم طلب رسمي عبر بوابة التسجيل.",
+    "instruction": "Donne une explication détaillée sur les conditions d'inscription dans les universités publiques, en incluant les exigences académiques spécifiques pour chaque filière."
+  },
+  {
+    "input": "واش كاين شي برنامج لدعم النساء القرويات؟",
+    "output": "نعم، كاينين برامج حكومية وجمعيات غير حكومية تدعم النساء القرويات. هذه البرامج تشمل تمويل مشاريع صغيرة، تدريب مهني في مختلف المجالات، ودعم للوصول إلى الأسواق. الهدف هو تحسين الوضع الاقتصادي والاجتماعي للنساء في المناطق الريفية.",
+    "instruction": "Décris les différents programmes d’aide disponibles pour les femmes rurales, en détaillant les types de soutien économique, les possibilités de formation et les objectifs des programmes."
+  }
+,
+
+  {
+    "input": "كيفاش نخدم مع الدار البيضاء للنقل كمتدرب؟",
+    "output": "باش تخدم كمتدرب مع شركة الدار البيضاء للنقل، خصك تسجل فالبرايمات ديال التكوين اللي كتنظمها الشركة. عادة كيتطلبو منك يكون عندك شواهد ملائمة (بحال دبلوم فالمجال ديال النقل أو المواصلات)، وخصك تقدّم طلب رسمي مع الوثائق المطلوبة بحال السيرة الذاتية. منين يقبلو طلبك، غادي تدير تدريب فواحد من الأقسام المناسبة لمهاراتك.",
+    "instruction": "Explique les étapes détaillées pour travailler comme stagiaire avec la société de transport Casablanca, en mentionnant les conditions d'admission, les documents nécessaires et les processus de sélection."
+  },
+  {
+    "input": "شنو كتعني نظام \"راميد\"؟",
+    "output": "نظام راميد هو نظام ديال التغطية الصحية المجانية أو المدعومة لفائدة الناس اللي ما عندهمش دخل كافي باش يداويو. كتوفر الدولة هاد النظام باش تدعم الأسر الفقيرة، وكيعطيهم الحق في العلاج فالمستشفيات والمراكز الصحية الحكومية بلا ما يخلصو.",
+    "instruction": "Décris en détail ce que signifie le système RAMID, en expliquant comment il fonctionne, qui en bénéficie et quelles sont les conditions d’éligibilité."
+  },
+  {
+    "input": "كيفاش نحصل على شهادة السكنى؟",
+    "output": "باش تحصل على شهادة السكنى، خصك تمشي لمركز الشرطة أو المقاطعة اللي كتسكن فيها. جيب معاك الوثائق المطلوبة بحال نسخة من البطاقة الوطنية، وشي وثائق لي كتثبت مكان سكنك (بحال عقد كراء أو فاتورة ديال الخدمات). منين يتأكدوا من المعلومات، غادي يعطيوك الشهادة.",
+    "instruction": "Explique en détail la procédure pour obtenir un certificat de résidence, en précisant les documents nécessaires, les étapes à suivre et les autorités compétentes."
+  },
+  {
+    "input": "شنو كيقدم المعهد الوطني للتكوين المهني؟",
+    "output": "المعهد الوطني للتكوين المهني كيعطي تكوينات تقنية فمجالات كثيرة بحال التكنولوجيا، الميكانيك، التجارة، والموارد البشرية. الهدف ديالو هو أنه يجهز الشباب بالمهارات باش يلقاو خدم فالمجال اللي درسو فيه. المعهد كيقدم تكوينات فالفصول الدراسية وكيجمع ما بين الجانب النظري والتطبيقي.",
+    "instruction": "Décris les différents services offerts par l’Institut national de formation professionnelle, en détaillant les secteurs couverts, les types de formations disponibles, et les objectifs de ces formations."
+  },
+  {
+    "input": "كيفاش نقدر نسجل فالمدرسة العليا للتكنولوجيا؟",
+    "output": "باش تسجل فالمدرسة العليا للتكنولوجيا، خصك دوز باك فالشعبة ديال العلوم. منين تجيب شهادة الباك، خصك تقدم طلب عبر الإنترنت للموقع ديال المدرسة، وكتضيف معاه الوثائق المطلوبة بحال نسخة من شهادة الباك، والسيرة الذاتية، وأي وثائق أخرى تطلبها المدرسة. بعض المدارس كتشترط اجتياز امتحانات قبول أو اختبارات انتقاء.",
+    "instruction": "Explique les conditions d’admission et les étapes pour s’inscrire à l’école supérieure de technologie, y compris les exigences académiques et les documents nécessaires pour compléter l’inscription."
+  }
+,
+
+  {
+    "input": "شنو كيقدم بنك التضامن للشباب؟",
+    "output": "بنك التضامن كيقدم قروض ميسرة ودعم مالي للشباب اللي بغاو يديرو مشاريع صغيرة أو متوسطة. الهدف ديال البنك هو أنه يعاون الشباب على تحقيق أفكارهم ويدعموهم فالتحديات المالية لي كيواجهوها، وكيقدم مساعدات على شكل قروض بفوائد منخفضة ومدة سداد مرنة.",
+    "instruction": "Décris les services financiers et le soutien offerts par la Banque de solidarité pour les jeunes, y compris les types de prêts disponibles et les conditions d'obtention."
+  },
+  {
+    "input": "شنو هو الدور ديال الجماعات المحلية؟",
+    "output": "الجماعات المحلية هي اللي كتهتم بتسيير الشأن المحلي فالمناطق المختلفة. دورها هو تنظيم الحياة اليومية ديال الناس، من خلال توفير خدمات أساسية بحال النظافة، الإنارة، وتسيير المساحات الخضراء. كتسهر على تحسين البنية التحتية وتلبية احتياجات السكان فالميادين الاجتماعية والاقتصادية.",
+    "instruction": "Explique en détail le rôle des collectivités locales, notamment en matière de gestion des services publics locaux, infrastructure, et développement de la communauté."
+  },
+  {
+    "input": "واش كاين شي مساعدة خاصة للمطلقات؟",
+    "output": "نعم، كاينين جمعيات ومنظمات ديال حقوق المرأة كتقدم مساعدات خاصة للمطلقات. هاد المساعدات كتكون فمجال الدعم القانوني بحال تقديم استشارات قانونية، الدعم المالي لفترة معينة، والمساعدة في إيجاد سكن أو وظائف. الهدف ديال هاد البرامج هو دعم المرأة في مرحلة ما بعد الطلاق وتمكينها من الاستقلالية.",
+    "instruction": "Indique s'il existe une aide spéciale pour les femmes divorcées, en expliquant les types de soutien disponible et les démarches pour en bénéficier."
+  },
+  {
+    "input": "كيفاش نستافد من البرامج ديال محو الأمية؟",
+    "output": "باش تستافد من البرامج ديال محو الأمية، خصك تسجل فالمراكز أو الجمعيات اللي كتقدم هاد الخدمات. التسجيل غالباً كيكون مجاني، وكتكون هادي فرصة باش تتعلم الكتابة والقراءة. بعض المراكز كتقدم دروس نهارية وبعضها كيكون المساء، وهاد البرامج كتساعد الناس فالتعلم وتنمية المهارات الأساسية.",
+    "instruction": "Explique en détail comment accéder aux programmes d'alphabétisation, en précisant les conditions d'inscription, les lieux d'enseignement et les horaires disponibles."
+  },
+  {
+    "input": "شنو هي الخطوات باش ندير بطاقة الطالب؟",
+    "output": "باش تدير بطاقة الطالب، خصك تمشي للجامعة اللي كتقرا فيها وتطلب البطاقة ديالك. غادي يطلبو منك بعض الوثائق بحال نسخة من بطاقة التعريف الوطنية، شهادة التسجيل ديالك فالجامعة، وصورة فوتوغرافية. منين تسلم الوثائق، غادي يعطيوك البطاقة باش تستافد من الامتيازات ديالها فالمؤسسات المختلفة.",
+    "instruction": "Explique les étapes pour obtenir une carte étudiante, en mentionnant les documents nécessaires et où et comment faire la demande."
+  }
+,
+
+  {
+    "input": "واش كاين شي دعم للتكوين فالصناعة التقليدية؟",
+    "output": "نعم، الدولة كتوفر برامج دعم وتكوين للصناع التقليديين. هاد البرامج كتقدم دورات تكوينية فمجالات مختلفة مثل الزخرفة، الخياطة، والصناعة الجلدية. كاينين مراكز تكوينية ودورات تعليمية فالمدن الكبرى والمناطق القروية، الهدف هو تطوير الحرف التقليدية وتقديم مهارات جديدة للصناع.",
+    "instruction": "Décris les programmes de formation soutenus par l'État pour les artisans, y compris les types de formations offertes et les critères pour y participer."
+  },
+  {
+    "input": "شنو هو دور المراكز الصحية القروية؟",
+    "output": "المراكز الصحية القروية كتوفر خدمات طبية أساسية بحال الفحوصات، العلاج من الأمراض البسيطة، والتلقيح. كتسهر على تقديم رعاية صحية للسكان فالقرى اللي ما كيوصلهمش المراكز الكبيرة. كيعملو فمجموعة من التخصصات الأساسية بحال الطب العام، النساء والولادة، وصحة الأطفال.",
+    "instruction": "Explique en détail le rôle des centres de santé ruraux, en précisant les types de services médicaux qu'ils offrent aux habitants des zones rurales."
+  },
+  {
+    "input": "كيفاش نقدر نستافد من التخفيض فالتنقل للطلاب؟",
+    "output": "باش تستافد من التخفيضات فالتنقل، خصك تكون عندك بطاقة الطالب. من بعد، تقدر تمشي للشركة ديال النقل وتطلب التخفيض، وغالباً كيطلبو منك بطاقة الطالب أو شهادة التسجيل ديالك فالجامعة. هاد التخفيضات كتساعد الطلبة على تقليص تكاليف التنقل وتسهيل وصولهم للجامعة.",
+    "instruction": "Explique les démarches nécessaires pour obtenir une réduction sur les transports pour les étudiants, en incluant les documents à fournir et où les demander."
+  },
+  {
+    "input": "شنو هو دور 'الأونيب' فمجال التعليم العالي؟",
+    "output": "الأونيب هي الوكالة الوطنية المسؤولة على تنظيم امتحانات الباكالوريا وتنسيق ولوج المعاهد العليا فالمغرب. كتعمل على وضع شروط قبول الطلبة، وتنظيم الامتحانات الوطنية وتوزيع نتائجها، وكتدير تنسيق بين الجامعات والمعاهد العليا فالمجالات المختلفة.",
+    "instruction": "Explique le rôle de l'ONNEP dans l'organisation des examens du baccalauréat et dans l'accès aux écoles supérieures, y compris ses responsabilités spécifiques."
+  },
+  {
+    "input": "واش كاين برنامج ديال التوعية حول الصحة النفسية؟",
+    "output": "نعم، كاينين العديد من الجمعيات اللي كتدير حملات توعية حول الصحة النفسية. هاد الحملات كتسعى لرفع الوعي بالمشاكل النفسية، وكيفاش نواجهوها. كيقدمون استشارات، دورات تكوينية، وندوات للتوعية بأهمية العناية بالصحة النفسية والتعامل مع الضغوطات اليومية.",
+    "instruction": "Décris les programmes de sensibilisation à la santé mentale, en expliquant les actions spécifiques entreprises par les associations et comment elles aident les individus à gérer leur bien-être mental."
+  }
+,
+  {
+    "input": "شنو هي الحقوق اللي كتحميها الشرطة للمواطن؟",
+    "output": "الشرطة كتسهر على حماية المواطنين وتطبيق القانون باش يعيشو فالأمن والأمان. كتضمن الحقوق بحال الحماية من الاعتداءات، الحفاظ على النظام العام، وضمان حرية التنقل. إذا تعرض المواطن لأي تهديد أو ظلم، الشرطة هي الجهة المسؤولة على التدخل وحمايته.",
+    "instruction": "Explique les droits que la police protège pour les citoyens, en précisant comment elle veille à la sécurité et au respect des lois."
+  },
+  {
+    "input": "كيفاش نقدر نستافد من بطاقة الرميد فالعيادات الخاصة؟",
+    "output": "الرميد كيغطّي فقط المستشفيات العمومية، والعلاج فعيادات الخاصة ما كيدخلش فالبرنامج. لكن، إذا كنتي مسجل فبرنامج الرميد، تقدر تستافد من تخفيضات فالمستشفيات العمومية أو تقدر تدير بعض الإجراءات في العيادات الخاصة ولكن ما غاديش تكون مشمولة كليا.",
+    "instruction": "Explique le système RAMED et les conditions pour bénéficier des soins dans les cliniques privées, notamment la couverture limitée aux hôpitaux publics."
+  },
+  {
+    "input": "شنو هي الأوراق اللي كنحتاج باش نسجل السيارة؟",
+    "output": "باش تسجل السيارة، خصك تجيب معاك البطاقة الوطنية، شهادة الملكية ديال السيارة، والفحص التقني لي كيتدار فمحطات الفحص. إذا كانت السيارة مستعملة، خصك تجيب كمان شهادة التأمين. هاد الأوراق ضرورية باش تكمل عملية التسجيل.",
+    "instruction": "Explique les documents nécessaires pour l'enregistrement d'un véhicule, y compris les pièces justificatives à fournir."
+  },
+  {
+    "input": "كيفاش نقدر ندير شكاية فالإدارة العمومية؟",
+    "output": "باش تدير شكاية، تقدر تمشي مباشرة للإدارة المعنية وتقدم مشكلتك. إذا ما قدرتش تمشي شخصياً، تقدر تدخل على البوابة الإلكترونية ديال 'شكاية' وتكتب مشكلتك. البوابة كتسهل على المواطنين تقديم الشكايات وتتبع الحالة ديالها إلكترونياً.",
+    "instruction": "Explique comment déposer une plainte dans une administration publique, en indiquant les démarches en ligne disponibles."
+  },
+  {
+    "input": "واش ممكن نستافد من منحة التعليم العالي؟",
+    "output": "نعم، إذا كنتي كتتوفر على ظروف عائلية صعيبة أو إذا كنتي من الفئات المستحقة، تقدر تقدم طلب على موقع وزارة التعليم العالي باش تستافد من منحة التعليم العالي. كاينين شروط معينة، بحال المعدل الدراسي والعوامل الاجتماعية ديالك.",
+    "instruction": "Explique comment bénéficier d'une bourse d'enseignement supérieur, y compris les critères et le processus de demande."
+  }
+,
+
+  {
+    "input": "شنو هي شروط باش تحصل على تعويضات الأمومة؟",
+    "output": "باش تحصل على تعويضات الأمومة، خصك تكوني مسجلة فالضمان الاجتماعي وكونتي خدمتي عدد معين ديال الأيام قبل الولادة. من بعد الولادة، كتقدري تطلبي التعويضات، ولكن خاصك تكوني محققة هاد الشروط.",
+    "instruction": "Explique les conditions nécessaires pour obtenir des indemnités de maternité, y compris l'inscription à la sécurité sociale et le nombre de jours de travail requis avant l'accouchement."
+  },
+  {
+    "input": "كيفاش نقدر نطلب نسخة من شهادة الازدياد؟",
+    "output": "باش تطلب نسخة من شهادة الازدياد، خاصك تمشي للمكتب ديال الحالة المدنية في المدينة اللي تسجلتي فيها أو تقدر تطلبها مباشرة من الموقع الإلكتروني الرسمي للمصلحة. غادي يكون عندك الإمكانية تطلب النسخة بسهولة.",
+    "instruction": "Explique comment demander une copie de l'acte de naissance, que ce soit en se rendant au bureau de l'état civil ou en utilisant le site web."
+  },
+  {
+    "input": "واش كاين شي دعم للفنانين والصناع التقليديين؟",
+    "output": "نعم، كاين صندوق لدعم الإبداع الثقافي والفني، كتقدر تدفع طلب ديالك لهذا الصندوق باش تستافد من الدعم. كاينين برامج لدعم الفنانين والصناع التقليديين خصوصا اللي عندهم مشاريع جديدة أو لي عندهم أفكار مبتكرة.",
+    "instruction": "Explique s'il existe un soutien financier ou des programmes pour les artistes et les artisans traditionnels, et comment faire une demande."
+  },
+  {
+    "input": "شنو هي شروط التسجيل فالتكوين المهني؟",
+    "output": "باش تسجل فالتكوين المهني، خصك تكون عندك على الأقل شهادة التاسعة إعدادي أو الباكالوريا حسب التخصص اللي بغيتي تسجل فيه. هاد الشروط كتكون ضرورية باش تبدا التكوين في المجال اللي اختاريتي.",
+    "instruction": "Décris les conditions nécessaires pour s'inscrire à la formation professionnelle, y compris les qualifications minimales requises."
+  },
+  {
+    "input": "كيفاش كتخدم بطاقة 'راميد' فالدواء؟",
+    "output": "بطاقة 'راميد' كتخدم باش تستافدي من الأدوية في المستشفيات العمومية، ولكن الأدوية ديال العيادات الخاصة غالباً ما كتكونش مشمولة. إذا كنتي مسجلة فالبرنامج، تقدر تاخدي الأدوية بالمجان في المستشفيات الحكومية.",
+    "instruction": "Explique comment fonctionne la carte RAMED pour l'accès aux médicaments, en précisant que les médicaments dans les hôpitaux publics sont couverts, mais pas ceux des cliniques privées."
+  }
+,
+  {
+    "input": "واش كاين شي برامج لمساعدة الأيتام؟",
+    "output": "نعم، كاينين جمعيات بحال 'بسمة' و'نادي الأمل' كيساعدو الأيتام فالتعليم والخدمات الاجتماعية، كيقدموا دعم للأطفال الي فقدوا والديهم باش يقدروا يحققوا النجاح فحياتهم.",
+    "instruction": "Il existe des programmes pour aider les orphelins, organisés par des associations comme 'Basma' et 'Nadi Al-Amal', qui soutiennent les orphelins dans leur éducation et services sociaux."
+  },
+  {
+    "input": "شنو الدور ديال الجماعات القروية؟",
+    "output": "الجماعات القروية كتسهر على تطوير البنية التحتية فالمناطق القروية، بحال الطرق، الماء، والكهرباء، وكتحاول تحسن الظروف المعيشية للساكنة فهاد المناطق.",
+    "instruction": "Les communes rurales s'occupent du développement des infrastructures, telles que les routes, l'eau et l'électricité dans les villages."
+  },
+  {
+    "input": "كيفاش نقدر نستافد من قروض السكن الاقتصادي؟",
+    "output": "باش تستافد من قروض السكن الاقتصادي، خاصك تمشي للبنك اللي كيقدم هاد القروض وتقدم طلب. غادي يكون ضروري توفر ضمانات بحال الأجرة الشهرية ديالك باش البنك يوافق على القرض.",
+    "instruction": "Pour bénéficier d'un prêt pour le logement économique, vous devez soumettre une demande auprès de la banque qui offre ces prêts et fournir des garanties telles que le salaire mensuel."
+  },
+  {
+    "input": "شنو هي الحقوق ديال العمال فالقطاع الخاص؟",
+    "output": "العمال فالقطاع الخاص عندهم الحق فالحد الأدنى للأجور، العطل السنوية، وتغطية صحية، وكتلتزم الشركات بتوفير هاد الحقوق وفقاً للقانون.",
+    "instruction": "Les travailleurs du secteur privé ont droit au salaire minimum, aux congés annuels et à une couverture de santé."
+  },
+  {
+    "input": "كيفاش نقدر نشارك فبرامج \"أجيال متمكنة\"؟",
+    "output": "باش تشارك فبرنامج 'أجيال متمكنة'، خاصك تسجل فالبرنامج اللي كيكون مفتوح للشباب باش يكتسبوا مهارات مهنية وشخصية. تقدر تشارك عبر الموقع الإلكتروني للبرنامج أو التسجيل في المراكز المعتمدة.",
+    "instruction": "Expliquez comment s'inscrire à un programme de formation pour les jeunes afin de développer des compétences professionnelles et personnelles."
+  }
+,
+  {
+    "input": "شنو هو دور الوكالة الحضرية؟",
+    "output": "الوكالة الحضرية كتسهر على تنظيم وتخطيط العمران في المدن، وكتضمن أن جميع المشاريع تتوافق مع المعايير والبروتوكولات المعتمدة لتنظيم البناء.",
+    "instruction": "Décrivez les responsabilités de l'agence urbaine en matière de planification et de régulation de la construction dans les zones urbaines."
+  },
+  {
+    "input": "واش ممكن نستافد من دور الشباب؟",
+    "output": "نعم، دور الشباب فالمغرب كتقدم العديد من الأنشطة الثقافية، الرياضية، والتكوينية، وكتساعد الشباب باش يطورو مهاراتهم الشخصية والمهنية.",
+    "instruction": "Expliquez les types d'activités offertes par les maisons de jeunes pour le développement des jeunes."
+  },
+  {
+    "input": "كيفاش نقدر ندير حساب بنكي فالمغرب؟",
+    "output": "باش تفتح حساب بنكي فالمغرب، خاصك تمشي لأي بنك، تدي معاك البطاقة الوطنية، وتختار النوع ديال الحساب اللي بغيت تفتح. البنك غادي يطلب منك معلومات إضافية وفقاً لنوع الحساب.",
+    "instruction": "Détaillez les étapes pour ouvrir un compte bancaire au Maroc, y compris les documents nécessaires."
+  },
+  {
+    "input": "شنو الخدمات اللي كتقدمها وكالة الماء والكهرباء؟",
+    "output": "وكالة الماء والكهرباء كتوفر خدمات توزيع الماء والكهرباء فالمنازل والمؤسسات، وكتهتم كذلك بتسوية المشكلات المرتبطة بالخدمات مثل انقطاع الماء أو الكهرباء.",
+    "instruction": "Expliquez les services fournis par l'agence de l'eau et de l'électricité, y compris la gestion des interruptions de service."
+  },
+  {
+    "input": "كيفاش نقدر نستافد من دعم السياحة الداخلية؟",
+    "output": "كتقدر تستافد من تخفيضات خاصة في بعض الفنادق ووكالات الأسفار المخصصة للسياحة الداخلية، بحيث كيتم تقديم عروض وتخفيضات لتشجيع المواطنين على زيارة المعالم السياحية المحلية.",
+    "instruction": "Précisez comment bénéficier de réductions ou d'avantages dans le cadre du soutien à la tourisme intérieur."
+  }
+,
+  {
+    "input": "شنو هي شروط فتح صيدلية؟",
+    "output": "باش تفتح صيدلية، خاصك تكون عندك دبلوم فالصيدلة، ورخصة من وزارة الصحة، وخصك توفق على معايير الصحة والسلامة في الصيدليات.",
+    "instruction": "Expliquez les conditions requises pour ouvrir une pharmacie au Maroc."
+  },
+  {
+    "input": "واش كاين دعم للرياضة فالقرى؟",
+    "output": "نعم، كاينين برامج ودعم من طرف الجمعيات المحلية لتطوير الرياضة فالمناطق القروية، ويمكنك التسجيل فهاد البرامج عبر الجمعيات المعنية.",
+    "instruction": "Indiquez si des programmes de soutien à la pratique sportive existent dans les zones rurales et comment en bénéficier."
+  },
+  {
+    "input": "كيفاش نقدر نسجل فبرنامج محاربة الأمية؟",
+    "output": "باش تسجل فبرنامج محاربة الأمية، تمشي للمراكز اللي كتنظم هاد البرامج وغالباً التسجيل كيكون مجاني، وكيتم فتح باب التسجيل فمواعيد محددة.",
+    "instruction": "Expliquez comment s'inscrire à un programme de lutte contre l'analphabétisme au Maroc."
+  },
+  {
+    "input": "شنو هي الوثائق اللي كنحتاج باش نطلب الطلاق؟",
+    "output": "باش تطلب الطلاق، خاصك تجيب البطاقة الوطنية ديالك، عقد الزواج، وأي وثائق كتثبت سبب الطلاق، بحال شهادات أو تقارير طبية إن وجدت.",
+    "instruction": "Décrivez les documents nécessaires pour demander un divorce au Maroc."
+  },
+  {
+    "input": "كيفاش نقدر ندير شركة صغيرة؟",
+    "output": "باش تدير شركة صغيرة، خاصك تمشي للمركز الجهوي للاستثمار، تعمر الاستمارة وتجيب الوثائق المطلوبة، بحال البطاقة الوطنية والسجل الضريبي، وغادي يعطوك الترخيص لإنشاء شركتك.",
+    "instruction": "Expliquez la procédure pour créer une petite entreprise, en indiquant les démarches administratives à suivre."
+  }
+,
+  {
+    "input": "شنو هي المهام ديال الوقاية المدنية؟",
+    "output": "الوقاية المدنية كتسهر على إنقاذ الأرواح فالحوادث والكوارث الطبيعية بحال الزلازل، الفيضانات، وكذالك محاربة الحرائق وإنقاذ الناس من الأماكن الخطيرة.",
+    "instruction": "Présentez les missions de la protection civile, notamment en matière de secours et de gestion des catastrophes."
+  },
+  {
+    "input": "واش ممكن ندير تجديد بطاقة التعريف الوطنية أونلاين؟",
+    "output": "نعم، تقدر تدير تجديد بطاقة التعريف الوطنية عبر الإنترنت من خلال الموقع الرسمي المخصص لهذا الغرض، وتبع الخطوات المطلوبة باش ترفع الوثائق وتنهي الطلب.",
+    "instruction": "Expliquez la procédure de renouvellement de la carte d'identité nationale en ligne."
+  },
+  {
+    "input": "كيفاش نستافد من خدمات وكالة التشغيل؟",
+    "output": "باش تستافد من خدمات وكالة التشغيل، خاصك تمشي وتسجل بياناتك الشخصية والمهنية عندهم، ومن بعد غادي يتواصلو معاك إذا كانت عندهم عروض شغل تناسبك.",
+    "instruction": "Détaillez comment s'inscrire à une agence pour l'emploi afin de recevoir des offres d'emploi."
+  },
+  {
+    "input": "شنو كيقدم الصندوق المغربي للتقاعد؟",
+    "output": "الصندوق المغربي للتقاعد كيقدم معاشات التقاعد للموظفين بعد ما يخلصو الخدمة ديالهم، وكيوفر لهم دخل شهري بعد التقاعد باش يضمنو العيش الكريم.",
+    "instruction": "Expliquez les prestations fournies par le fonds de pension marocain, notamment les retraites des fonctionnaires."
+  },
+  {
+    "input": "واش كاين دعم خاص لأطفال التوحد؟",
+    "output": "نعم، كاينين جمعيات ومراكز متخصصة كتقدم دعم للأطفال المصابين بالتوحد، كتوفر لهم تكوينات وتوجيهات للأسرة باش يتعاملوا مع الحالة.",
+    "instruction": "Indiquez si des aides ou des programmes de soutien existent pour les enfants autistes et leurs familles."
+  }
+,
+  {
+    "input": "شنو الدور ديال وزارة التضامن والتنمية الاجتماعية؟",
+    "output": "وزارة التضامن والتنمية الاجتماعية كتسهر على تنظيم برامج الدعم الاجتماعي، كتحارب الفقر وكتدعم الفئات الهشة بحال الأيتام، كبار السن، والأشخاص ذوي الاحتياجات الخاصة.",
+    "instruction": "Présentez les responsabilités de la ministre de la solidarité et du développement social, en mettant l'accent sur l'aide sociale."
+  },
+  {
+    "input": "كيفاش نقدر نشارك فمسابقة تشغيل الأساتذة؟",
+    "output": "باش تشارك فمسابقة توظيف الأساتذة، خاصك تسجل فالموقع الإلكتروني ديال وزارة التربية الوطنية وتدفع طلبك ملي تفتح المباراة.",
+    "instruction": "Expliquez comment participer aux concours de recrutement des enseignants, y compris les étapes d'inscription."
+  },
+  {
+    "input": "شنو هي الخدمات اللي كتقدمها المكتبات العمومية؟",
+    "output": "المكتبات العمومية كتقدم كتب للقراءة، فضاءات مخصصة للمراجعة، وكاين بعض الأنشطة الثقافية اللي كتكون موجهة للجمهور.",
+    "instruction": "Décrivez les services offerts par les bibliothèques publiques, y compris les espaces de lecture et les activités culturelles."
+  },
+  {
+    "input": "واش ممكن نستافد من الطاقة الشمسية فالقرى؟",
+    "output": "نعم، بعض الجمعيات كيقدمو تجهيزات الطاقة الشمسية للمناطق النائية باش يساعدو فالتنمية المستدامة فهاد المناطق.",
+    "instruction": "Expliquez si des initiatives de fourniture d'énergie solaire existent dans les zones rurales et comment en bénéficier."
+  },
+  {
+    "input": "كيفاش نخدم فالسلك العسكري؟",
+    "output": "باش تخدم فالسلك العسكري، خاصك تسجل فالمباراة اللي كتنظمها القوات المسلحة الملكية، وتدفع الوثائق المطلوبة في الآجال المحددة.",
+    "instruction": "Inscrivez-vous au concours organisé par les Forces Armées Royales et soumettez les documents requis."
+  }
+,
+  {
+    "input": "شنو هي الخدمات اللي كتقدمها الإدارات الجماعية؟",
+    "output": "الإدارات الجماعية كتقدم خدمات بحال النظافة، إصلاح الطرق، وتطوير المساحات الخضراء فالمناطق الحضرية والقروية.",
+    "instruction": "Les administrations collectives offrent des services tels que le nettoyage, la réparation des routes et la création d'espaces verts."
+  },
+  {
+    "input": "كيفاش نقدر نطلب تعويض عن حادثة شغل؟",
+    "output": "باش تطلب تعويض عن حادثة شغل، خاصك تقدم طلب للصندوق الوطني للضمان الاجتماعي مع جميع الوثائق اللي كتثبت الحادثة.",
+    "instruction": "Faites une demande à la Caisse Nationale de Sécurité Sociale avec les documents prouvant l'accident."
+  },
+  {
+    "input": "شنو هو الدور ديال المؤسسات التعليمية الخصوصية؟",
+    "output": "المؤسسات التعليمية الخصوصية كتقدم تعليم بمقابل مادي مع تجهيزات إضافية وأنشطة موازية بحال الرياضة والفنون.",
+    "instruction": "Les établissements éducatifs privés offrent une éducation payante avec des équipements supplémentaires et des activités parallèles."
+  },
+  {
+    "input": "واش ممكن نستافد من برامج الإنعاش الوطني؟",
+    "output": "نعم، برامج الإنعاش الوطني كتدير مشاريع للبنية التحتية فالمناطق النائية وكتوفر فرص عمل للناس هناك.",
+    "instruction": "Oui, les programmes de relance nationale mènent des projets d'infrastructure et emploient des personnes dans les zones rurales."
+  },
+  {
+    "input": "شنو الوثائق اللي كنحتاج باش ندير بطاقة السوابق العدلية؟",
+    "output": "باش تدير بطاقة السوابق العدلية، خاصك تجيب البطاقة الوطنية ديالك وتدير طلب فالمحكمة اللي تابع ليها عنوانك.",
+    "instruction": "Vous devez présenter votre carte d'identité nationale et vous rendre au tribunal dont vous dépendez."
+  }
+,
+  {
+    "input": "كيفاش نقدر ندير تسجيل ولادي فالمدرسة العمومية؟",
+    "output": "باش تسجل ولادك فالمؤسسة العمومية، خاصك تمشي للإدارة ديال المدرسة ومعاك عقد الازدياد ديالهم، البطاقة الوطنية ديالك، وشهادة السكنى.",
+    "instruction": "Allez à l'administration de l'école avec l'acte de naissance, votre carte d'identité et un certificat de résidence."
+  },
+  {
+    "input": "واش ممكن نستافد من برامج تكوين الحرفيين؟",
+    "output": "نعم، مراكز التكوين المهني كتقدم برامج خاصة بتكوين الحرفيين فمجالات متعددة بحال الصناعة التقليدية والحرف اليدوية.",
+    "instruction": "Oui, les centres de formation professionnelle proposent des programmes spécialisés dans les métiers manuels et l'artisanat."
+  },
+  {
+    "input": "شنو هي الشروط باش نستافد من دعم الفلاحين؟",
+    "output": "باش تستافد من دعم الفلاحين، خاصك تكون عندك أرض مسجلة فالسجل العقاري وتقدم طلب فوكالة التنمية الفلاحية.",
+    "instruction": "Vous devez posséder un terrain inscrit au registre foncier et soumettre une demande de soutien à l'Agence pour le Développement Agricole."
+  },
+  {
+    "input": "شنو هي الوثائق المطلوبة باش نخرج جواز السفر؟",
+    "output": "باش تخرج جواز السفر، خاصك تجيب البطاقة الوطنية ديالك، صورتين، وطابع إلكتروني.",
+    "instruction": "Vous devez présenter votre carte d'identité nationale, deux photos et un timbre électronique."
+  },
+  {
+    "input": "كيفاش نقدر نعرف المشاريع اللي كاينين فالجماعة؟",
+    "output": "باش تعرف المشاريع فالجماعة، تقدر تحضر لدورات المجلس الجماعي أو تشوف الإعلانات اللي كينين فاللوحة الجماعية.",
+    "instruction": "Vous pouvez assister aux séances du conseil municipal ou consulter leurs annonces sur le tableau communal."
+  }
+,
+  {
+    "input": "واش كاين شي دعم للمقاولين الذاتيين؟",
+    "output": "نعم، كاينين برامج بحال \"انطلاقة\" اللي كيدعمو المشاريع الصغيرة بقروض ميسرة وأحياناً بتكوينات.",
+    "instruction": "Oui, il existe des programmes comme 'Intilaka' qui soutiennent les petites entreprises avec des prêts à faible taux d'intérêt."
+  },
+  {
+    "input": "شنو هي الإجراءات باش ندير تصحيح الإمضاء؟",
+    "output": "باش تدير تصحيح الإمضاء، خاصك تمشي للمقاطعة ومعاك الوثيقة اللي باغي تصحح الإمضاء ديالها والبطاقة الوطنية ديالك.",
+    "instruction": "Allez à la mairie avec le document dont vous souhaitez corriger la signature et votre carte d'identité."
+  },
+  {
+    "input": "كيفاش نقدر نحصل على شهادة الملكية؟",
+    "output": "باش تحصل على شهادة الملكية، تمشي للمحافظة العقارية اللي تابع ليها العقار وتقدم طلب مع الوثائق المطلوبة.",
+    "instruction": "Allez à la conservation foncière dont dépend votre bien et soumettez une demande avec les documents requis."
+  },
+  {
+    "input": "شنو الخدمات اللي كتقدمها مؤسسات الرعاية الاجتماعية؟",
+    "output": "مؤسسات الرعاية الاجتماعية كتقدم الدعم للأيتام، الأرامل، وكبار السن، وأحياناً كتقدم مساعدات غذائية.",
+    "instruction": "Les institutions de bienfaisance sociale fournissent un soutien aux orphelins, veuves, personnes âgées et parfois des aides alimentaires."
+  },
+  {
+    "input": "كيفاش نقدر نشري سكن اقتصادي؟",
+    "output": "باش تشري سكن اقتصادي، تمشي عند شركة عقارية وتأكد من الوثائق المطلوبة بحال شهادة الأجرة، شهادة الزواج، وأحياناً شهادة السكنى.",
+    "instruction": "Allez chez un promoteur immobilier et vérifiez les documents requis tels que le certificat de salaire et le certificat de mariage."
+  }
+,
+  {
+      "input": "شنو هي الطرق اللي نقدر ندير بها تأمين صحي؟",
+      "output": "تقدر تسجل فـCNSS إلا كنت خدام، ولا تشترك فشي تأمين صحي خاص مع شي شركة تأمين. وكتقدر تستافد من راميد إلا كنت من الأسر اللي عندها دخل محدود.",
+      "instruction": "Vous pouvez vous inscrire à la CNSS si vous êtes salarié, souscrire à une assurance privée auprès d'une compagnie d'assurance, ou bénéficier de programmes gouvernementaux tels que RAMED pour les ménages à faible revenu."
+  },
+  {
+      "input": "واش كاين شي برامج لإعادة التدوير فالمدن؟",
+      "output": "إييه، كاين شي مدن بحال الرباط وكازا اللي عندها برامج ديال جمع وفرز النفايات اللي ممكن يتعاود استعمالها. تقدر تسول الجماعة ديالك باش تعرف التفاصيل.",
+      "instruction": "Certaines villes marocaines comme Rabat et Casablanca disposent de programmes de collecte et de tri des déchets recyclables. Contactez votre municipalité pour plus de détails."
+  },
+  {
+      "input": "شنو هي شروط الاستفادة من النقل المدرسي؟",
+      "output": "باش تستافد من النقل المدرسي خاص يكون ولدك مسجل فالمؤسسة اللي كتوفر هاد الخدمة، وتخلص الواجب الشهري أو السنوي، وبحال يقدر تكون شروط خاصة حسب المدرسة.",
+      "instruction": "Pour bénéficier du transport scolaire, l'enfant doit être inscrit dans l'école fournissant ce service et payer une cotisation mensuelle ou annuelle. D'autres conditions peuvent s'appliquer selon l'établissement."
+  },
+  {
+      "input": "كيفاش نقدر ندير وكالة خاصة؟",
+      "output": "تمشي لعند العدول ولا الكاتب العمومي، تكتب الوكالة اللي بغيت، ومن بعد تصادق عليها فالمقاطعة ولا الجماعة.",
+      "instruction": "Vous pouvez vous rendre chez un notaire ou un greffier pour rédiger le document de procuration, puis le faire authentifier auprès de la mairie ou de l'administration compétente."
+  },
+  {
+      "input": "شنو الخدمات اللي كتقدمها مكاتب التشغيل الخاصة؟",
+      "output": "مكاتب التشغيل الخاصة كتقدم فرص ديال الخدمة فالمغرب وحتى برا، ولكن مقابل رسوم. خاصك تتأكد من المصداقية قبل ما تسجل.",
+      "instruction": "Les bureaux privés de placement offrent des opportunités d'emploi locales et internationales, mais contre des frais. Assurez-vous de vérifier la fiabilité et les conditions avant de vous engager."
+  }
+,
+  {
+      "input": "كيفاش نقدر نسجل ولدي فالرياضة؟",
+      "output": "تمشي للنادي الرياضي اللي تابع ليه، تخلص واجب التسجيل وتجيب شهادة طبية كتأكد أنه يقدر يمارس الرياضة.",
+      "instruction": "Pour inscrire votre enfant dans un club sportif, vous devez vous rendre dans le club de votre choix, payer les frais d'inscription et fournir un certificat médical attestant de son aptitude à pratiquer une activité physique."
+  },
+  {
+      "input": "شنو الفرق بين السكن الاجتماعي والسكن الاقتصادي؟",
+      "output": "السكن الاجتماعي رخيص وموجه للي عندهم دخل محدود، أما السكن الاقتصادي فثمنو أغلى شوية ولكن بشروط ميسرة.",
+      "instruction": "La principale différence entre le logement social et le logement économique réside dans le prix et les critères d'éligibilité. Le logement social est destiné aux personnes à faible revenu, tandis que le logement économique est accessible sous certaines conditions, mais à un prix légèrement plus élevé."
+  },
+  {
+      "input": "شنو هي البرامج اللي كتدعم المرأة القروية؟",
+      "output": "كاينين برامج بحال \"مبادرة التنمية القروية\" اللي كيدعمو النساء باش يديرو مشاريع فالقرى، وكاين جمعيات كتقدم تمويلات ودورات تكوينية.",
+      "instruction": "Il existe des programmes tels que \"l'Initiative de Développement Rural\" qui soutiennent les projets féminins dans les zones rurales. Ces programmes visent à promouvoir l'entrepreneuriat et l'autonomisation des femmes rurales."
+  },
+  {
+      "input": "كيفاش نقدر نستافد من النقل العمومي؟",
+      "output": "يمكنك تشري بطاقة اشتراك شهري من عند شركة النقل فالمدينة اللي ساكن فيها، وكتستافد من تنقلات غير محدودة طول الشهر.",
+      "instruction": "Pour bénéficier du transport public, vous pouvez acheter une carte d'abonnement mensuel auprès de la société de transport dans la ville où vous résidez. Cette carte permet de voyager de manière illimitée pendant un mois."
+  },
+  {
+      "input": "شنو هو الدور ديال محطات معالجة المياه؟",
+      "output": "محطات معالجة المياه كتصفّي المياه وكتنقّيها باش توصل للناس صالحة للشرب وخالية من الجراثيم.",
+      "instruction": "Les stations de traitement des eaux sont responsables de la purification de l'eau afin de garantir qu'elle soit potable et sûre pour la consommation humaine."
+  }
+,
+  {
+      "input": "كيفاش نقدر نستافد من المساعدات الغذائية؟",
+      "output": "تسجل فشي جمعية محلية اللي كتوزع المساعدات، ولا تقدم طلب للإدارة اللي كتسهر على البرنامج إذا كان كاين.",
+      "instruction": "Pour bénéficier des aides alimentaires, inscrivez-vous auprès des associations locales ou présentez une demande auprès des autorités compétentes si un programme d'aide est disponible."
+  },
+  {
+      "input": "شنو هي الإجراءات باش نسجل محل تجاري؟",
+      "output": "خصك تمشي للمركز الجهوي للاستثمار وتجيب الوثائق المطلوبة بحال شهادة السكنى ورخصة المحل والبطاقة الوطنية.",
+      "instruction": "Pour enregistrer un commerce, vous devez vous rendre au Centre Régional d'Investissement avec les documents nécessaires, tels qu'un certificat de résidence, une licence pour le local commercial et une pièce d'identité."
+  },
+  {
+      "input": "كيفاش نقدر نشارك فالمسابقات الثقافية؟",
+      "output": "تراقب الإعلانات ديال دور الثقافة والجمعيات، وتقدم ترشيحك حسب الشروط اللي كيحددوها.",
+      "instruction": "Pour participer à des concours culturels, suivez les annonces publiées par les centres culturels et les associations locales, puis soumettez votre candidature selon les instructions."
+  },
+  {
+      "input": "شنو الخدمات اللي كتقدمها المستوصفات؟",
+      "output": "المستوصفات كتوفر العلاجات الأولية، التلقيح ضد الأمراض، وفي بعض الأحيان توزيع أدوية مجانية حسب الإمكانيات.",
+      "instruction": "Les centres de santé offrent des soins de santé de base, des vaccinations et parfois la distribution de médicaments gratuits, en fonction des ressources disponibles."
+  },
+  {
+      "input": "واش كاين دعم للأشخاص ذوي الاحتياجات الخاصة؟",
+      "output": "إييه، كاينين بطائق خاصة بالدعم، خدمات تعليمية وتأهيلية، وحتى برامج ديال التكوين المهني.",
+      "instruction": "Oui, il existe des cartes spéciales pour l'accès à des services de soutien, ainsi que des programmes d'éducation, de réadaptation et de formation professionnelle pour les personnes handicapées."
+  }
+,
+  {
+      "input": "كيفاش نقدر ندير تجديد البطاقة الرمادية؟",
+      "output": "خصك تمشي لمصلحة النقل اللي تابع ليها، وتجيب معاك البطاقة الرمادية القديمة، شهادة الفحص التقني اللي تكون صالحة، وصور شخصية ديال صاحب السيارة.",
+      "instruction": "Pour renouveler la carte grise de votre véhicule, vous devez vous rendre au service de transport avec l'ancienne carte grise, un certificat de contrôle technique valide et des photos d'identité du propriétaire du véhicule."
+  },
+  {
+      "input": "شنو هي الحقوق ديال المستهلك؟",
+      "output": "المستهلك عندو الحق فالمنتوج اللي يكون بجودة مزيانة، الحق فالاستبدال إلى كان المنتوج خاسر، والتعويض إذا تعرض لشي ضرر.",
+      "instruction": "Les consommateurs ont le droit à un produit de qualité, à un échange en cas de défectuosité et à une indemnisation en cas de préjudice."
+  },
+  {
+      "input": "كيفاش نقدر ندير حساب فـ\"البوابة الوطنية للشكايات\"؟",
+      "output": "تمشي لموقع \"البوابة الوطنية للشكايات\"، تعمر المعلومات الشخصية بحال الاسم، البريد الإلكتروني، ورقم الهاتف، وتختار كلمة سر قوية.",
+      "instruction": "Pour créer un compte sur le \"portail national des réclamations\", rendez-vous sur le site, remplissez vos informations personnelles comme votre nom, votre adresse e-mail et votre numéro de téléphone, puis choisissez un mot de passe sécurisé."
+  },
+  {
+      "input": "شنو هي شروط بناء منزل فالقرى؟",
+      "output": "باش تبني منزل فالقرية، خصك تطلب رخصة البناء من الجماعة المحلية، وتوفر وثائق بحال الملكية ورسم الطبوغرافيا إذا كان ضروري.",
+      "instruction": "Pour construire une maison dans les zones rurales, vous devez obtenir un permis de construire de la commune et fournir des documents tels que le titre de propriété et un plan topographique si nécessaire."
+  },
+  {
+      "input": "كيفاش نقدر نحصل على قرض شخصي؟",
+      "output": "تمشي للبنك اللي باغي تخدم معاه، وتجيب معاك الوثائق المطلوبة بحال شهادة العمل، نسخة من البطاقة الوطنية، وتقرير على الأجرة الشهرية ديالك.",
+      "instruction": "Pour obtenir un prêt personnel, vous devez vous rendre à la banque de votre choix avec des documents tels qu'une attestation de travail, une copie de votre carte d'identité nationale et un relevé de votre salaire mensuel."
+  }
+, {
+      "input": "واش كاين دعم للطلبة فالأحياء الجامعية؟",
+      "output": "نعم، كاين نظام السكن الجامعي اللي كيوفر غرف بثمن رمزي للطلبة، وخصك تكون مستوفي لشروط الاستفادة بحال البعد على الجامعة والوضعية الاجتماعية.",
+      "instruction": "Oui, il existe un système de logement universitaire qui propose des chambres à des tarifs symboliques pour les étudiants. Vous devez répondre à certains critères comme la distance par rapport à l'université et la situation sociale."
+  },
+  {
+      "input": "شنو هي البرامج اللي كتدعم السياحة الجبلية؟",
+      "output": "كاين برامج بحال \"السياحة التضامنية\" اللي كتشجع الأنشطة السياحية فالمناطق الجبلية، وكتعاون السكان المحليين فتنظيم جولات واستقبال الزوار.",
+      "instruction": "Des programmes comme \"le tourisme solidaire\" encouragent les activités touristiques dans les régions montagneuses, en mettant l'accent sur la durabilité et l'implication locale des habitants pour organiser des visites et accueillir les touristes."
+  },
+  {
+      "input": "كيفاش نقدر نستافد من برنامج \"راميد\"؟",
+      "output": "خصك تمشي للملحقة الإدارية اللي تابع ليها، تعمر استمارة راميد، وتجيب معاك الوثائق بحال شهادة السكنى وشهادة تثبت الوضعية المادية ديالك.",
+      "instruction": "Pour bénéficier du programme \"RAMID\", vous devez vous rendre à l'annexe administrative de votre région, remplir le formulaire RAMID et fournir des documents comme un certificat de résidence et une attestation de votre situation financière."
+  },
+  {
+      "input": "شنو هي الإجراءات باش نسجل الأرض فالتحفيظ العقاري؟",
+      "output": "خصك تمشي للمحافظة العقارية وتدفع طلب التحفيظ، مع وثائق بحال عقد البيع، شهادة الملكية، ورسم طبوغرافي إذا كان ضروري.",
+      "instruction": "Pour enregistrer un terrain au cadastre, vous devez vous rendre à la conservation foncière, soumettre une demande d'enregistrement et fournir des documents comme l'acte de vente, le titre de propriété et un plan topographique si nécessaire."
+  },
+  {
+      "input": "كيفاش نقدر نستافد من المساعدة الطبية فالقرى؟",
+      "output": "كاينين وحدات طبية متنقلة اللي كتدوز على القرى كل مدة، وخصك تسجل فاللوائح عند المقدم، ولا تتصل بالمستشفى الأقرب فحالة الضرورة.",
+      "instruction": "Les unités médicales mobiles parcourent périodiquement les villages. Vous devez vous inscrire sur les listes gérées par le chef de village (mouqaddem) ou contacter l'hôpital le plus proche en cas d'urgence."
+  }
+,
+  {
+      "input": "شنو هي الوثائق المطلوبة باش ندير رخصة السكن؟",
+      "output": "خصك تجيب شهادة الملكية، تصميم البناء، رخصة البناء الأصلية، وزيد عليهم شهادة المطابقة اللي كتاكد بأن البناء مطابق للتصميم اللي عطاوه ليك.",
+      "instruction": "Pour obtenir un permis de séjour, vous devez fournir un certificat de propriété, un plan de construction, la licence de construction originale et un certificat de conformité confirmant que la construction respecte le plan approuvé."
+  },
+  {
+      "input": "كيفاش نقدر نسجل فبرامج محاربة الأمية؟",
+      "output": "تسجل فالملحقة الإدارية، المراكز الثقافية، ولا الجمعيات اللي كتنظم دورات محاربة الأمية، وكتستفد مجاناً.",
+      "instruction": "Pour vous inscrire aux programmes de lutte contre l'analphabétisme, rendez-vous à la commune, dans les centres culturels ou auprès des associations organisant ces formations. Ces programmes sont généralement gratuits."
+  },
+  {
+      "input": "شنو هي الخدمات اللي كتوفرها الوكالة الحضرية؟",
+      "output": "الوكالة الحضرية كتسهر على تسليم تراخيص البناء، مراقبة المشاريع العقارية باش تكون قانونية، وتخطيط وتنظيم الفضاءات الحضرية باش تكون متناغمة مع التنمية.",
+      "instruction": "L'agence urbaine délivre des permis de construire, surveille les projets immobiliers pour s'assurer de leur conformité et planifie l'organisation des espaces urbains pour une croissance harmonieuse."
+  },
+  {
+      "input": "واش كاين دعم للشباب العاطل؟",
+      "output": "نعم، كاينين برامج بحال \"أنابيك\" اللي كتعاونك تلقى خدمتك الأولى، وبرامج لدعم الشباب المقاول اللي بغا يدير مشروعو الخاص.",
+      "instruction": "Oui, des programmes comme \"ANAPEC\" aident les jeunes à trouver leur premier emploi, et d'autres initiatives soutiennent les jeunes entrepreneurs qui souhaitent créer leur propre entreprise."
+  },
+  {
+      "input": "شنو هي الإجراءات باش نبدل رخصة السياقة؟",
+      "output": "تمشي لمصلحة النقل ومعاك الرخصة القديمة، صورة شخصية حديثة، شهادة طبية كتأكد بأنك صالح للسياقة، ونسخة من البطاقة الوطنية.",
+      "instruction": "Pour changer votre permis de conduire, vous devez vous rendre au service de transport avec votre ancien permis, une photo d'identité récente, un certificat médical attestant de votre aptitude à conduire et une copie de votre carte nationale d'identité."
+  }
+,
+  {
+      "input": "كيفاش نقدر نستافد من دعم الطاقة الشمسية؟",
+      "output": "كاين برامج حكومية كتدعم تركيب الألواح الشمسية فالمناطق القروية، وكتعطي دعم جزئي على تكاليف التركيب للناس اللي ساكنين فالمناطق المعزولة.",
+      "instruction": "Il existe des programmes gouvernementaux qui soutiennent l'installation de panneaux solaires dans les zones rurales, offrant une aide partielle pour le coût d'installation, en particulier pour les habitants des zones isolées."
+  },
+  {
+      "input": "شنو هي الخدمات اللي كتقدمها محطات التحلية؟",
+      "output": "محطات التحلية كتسحب الماء من البحر وتقوم بتحليتو باش يكون صالح للشرب، خصوصاً فالمناطق اللي عندها مشاكل فالمياه.",
+      "instruction": "Les stations de dessalement prélèvent l'eau de mer et la traitent pour la rendre potable, en particulier dans les régions où il y a des pénuries d'eau."
+  },
+  {
+      "input": "كيفاش نقدر ندير شهادة عدم العمل؟",
+      "output": "تمشي للملحقة الإدارية القريبة منك وتجيب البطاقة الوطنية ديالك، وتطلب شهادة عدم العمل من المقدم.",
+      "instruction": "Pour obtenir un certificat de non-emploi, rendez-vous à la commune locale avec votre carte d'identité et demandez-le au chef de village (mouqaddem)."
+  },
+  {
+      "input": "شنو هي شروط الاستفادة من دعم السكن؟",
+      "output": "خصك تكون من ذوي الدخل المحدود وتكون مسجل فوكالة التنمية الحضرية أو تقدم طلب عندهم مع الوثائق المطلوبة.",
+      "instruction": "Vous devez être une personne à faible revenu et soumettre une demande auprès de l'agence de développement urbain, en fournissant les documents nécessaires pour évaluer votre éligibilité."
+  },
+  {
+      "input": "كيفاش نقدر نحصل على رخصة الاستغلال التجاري؟",
+      "output": "تمشي للجماعة المحلية ومعاك شهادة السجل التجاري، عقد الكراء أو ملكية المحل، وطلب رخصة الاستغلال التجاري.",
+      "instruction": "Pour obtenir une licence d'exploitation commerciale, vous devez vous rendre à la commune locale avec des documents tels que l'extrait du registre du commerce, le contrat de location ou le titre de propriété du local, et faire une demande pour la licence."
+  }
+,
+  {
+      "input": "شنو هي الخدمات اللي كتقدمها مراكز الرعاية الصحية الأولية؟",
+      "output": "مراكز الرعاية الصحية الأولية كتقدم العلاجات البسيطة بحال معالجة الأمراض الخفيفة، متابعة الحمل والولادة، وتلقيح الأطفال ضد الأمراض المعروفة.",
+      "instruction": "Les centres de soins primaires offrent des soins de base tels que le traitement des maladies légères, le suivi des grossesses et des vaccinations pour les enfants contre les maladies courantes."
+  },
+  {
+      "input": "واش كاين دعم للتعليم الأولي فالقرى؟",
+      "output": "نعم، كاين برامج حكومية مثل \"التعليم الأولي للجميع\" اللي كتدعم إنشاء الأقسام والمدارس فالمناطق القروية وتوفير مدرسين.",
+      "instruction": "Oui, il existe des programmes gouvernementaux comme \"L'enseignement préscolaire pour tous\" qui soutiennent la création de classes et d'écoles dans les zones rurales, ainsi que la fourniture d'enseignants."
+  },
+  {
+      "input": "شنو هي الإجراءات باش نسجل الزواج؟",
+      "output": "باش تسجل الزواج، تمشي عند العدول وتجيب معاك شهادة العزوبة، البطاقة الوطنية ديالك، وشهادة طبية تؤكد صحتك.",
+      "instruction": "Pour enregistrer un mariage, vous devez vous rendre chez les notaires avec un certificat de célibat, votre carte d'identité et un certificat médical attestant de votre état de santé."
+  },
+  {
+      "input": "كيفاش نقدر نستافد من تكوين فالبرمجة؟",
+      "output": "كاين مراكز تكوين بحال \"1337\" و\"يوسيتي\" اللي كتقدم دورات تكوينية مجانية في البرمجة للمراهقين والشباب اللي بغيو يتعلمو البرمجة.",
+      "instruction": "Il existe des centres de formation comme \"1337\" et \"YouCity\" qui offrent des formations gratuites en programmation pour les jeunes qui souhaitent apprendre le code."
+  },
+  {
+      "input": "شنو هي الوثائق اللي كنحتاج باش نبدل اسم العائلة؟",
+      "output": "باش تبدل اسم العائلة، خصك تقدم طلب كتابي للعمالة وتجيب معاك شهادة من المحكمة كتوثق تغيير الاسم.",
+      "instruction": "Pour changer votre nom de famille, vous devez soumettre une demande écrite au préfet accompagnée d'un certificat délivré par le tribunal attestant du changement de nom."
+  }
+,
+  {
+      "input": "كيفاش نقدر ندير طلب تجديد بطاقة الإقامة للأجانب؟",
+      "output": "باش تدير طلب تجديد بطاقة الإقامة، تمشي لمصلحة الأجانب فالعمالة وتجيب معاك جواز السفر ديالك وكل الوثائق المطلوبة من طرف الإدارة.",
+      "instruction": "Pour renouveler votre carte de séjour, vous devez vous rendre au service des étrangers de la préfecture avec votre passeport et les documents requis."
+  },
+  {
+      "input": "شنو هي الخدمات اللي كتقدمها دور الثقافة؟",
+      "output": "دور الثقافة كتقدم أنشطة متنوعة بحال المسرح، الموسيقى، الرسم، وحتى برامج لمحو الأمية للناس اللي كيبغيو يتعلمو القراءة والكتابة.",
+      "instruction": "Les maisons de la culture offrent une gamme d'activités telles que le théâtre, la musique, la peinture, ainsi que des programmes d'alphabétisation pour les personnes souhaitant apprendre à lire et à écrire."
+  },
+  {
+      "input": "كيفاش نقدر ندير طلب رخصة الصيد؟",
+      "output": "باش تدير طلب رخصة الصيد، تقدم طلب لمندوبية الصيد البحري وتجبد معاك شهادة طبية كتوثق صحتك وشهادة تكوين فالصيد.",
+      "instruction": "Pour obtenir un permis de pêche, vous devez soumettre une demande auprès de la délégation de la pêche maritime accompagnée d'un certificat médical et d'un certificat de formation en pêche."
+  },
+  {
+      "input": "شنو هي البرامج اللي كتدعم الحرف التقليدية؟",
+      "output": "كاين برامج بحال \"دار الصانع\" اللي كتساعد الحرفيين فالتسويق ديال منتجاتهم التقليدية وتقديم تكوينات فالحرف اليدوية.",
+      "instruction": "Des programmes tels que \"Dar Al-Sanaa\" soutiennent la commercialisation des produits artisanaux et offrent des formations aux artisans pour améliorer leurs compétences."
+  },
+  {
+      "input": "كيفاش نقدر نشارك فبرامج التوعية الصحية؟",
+      "output": "باش تشارك فبرامج التوعية الصحية، تسجل مع الجمعيات اللي كتنظم حملات توعية أو تتوجه للمراكز الصحية القريبة منك.",
+      "instruction": "Pour participer aux programmes de sensibilisation à la santé, vous pouvez vous inscrire auprès des associations organisant des campagnes de sensibilisation ou vous rendre dans les centres de santé locaux."
+  }
+,
+  {
+      "input": "شنو هي الوثائق المطلوبة باش نبيع الأرض؟",
+      "output": "باش تبيع الأرض، خصك توفر شهادة الملكية، عقد البيع، وتصميم الأرض إذا كانت محفظة.",
+      "instruction": "Pour vendre un terrain, vous devez fournir un certificat de propriété, un contrat de vente et un plan du terrain s'il est enregistré."
+  },
+  {
+      "input": "كيفاش نقدر نحصل على دعم من \"أنابيك\"؟",
+      "output": "باش تحصل على دعم من \"أنابيك\"، تسجل فالموقع الإلكتروني ديالهم وتقدم سيرتك الذاتية للفرص المتاحة.",
+      "instruction": "Pour obtenir un soutien d'ANAPEC, inscrivez-vous sur leur site web et soumettez votre CV pour les opportunités disponibles."
+  },
+  {
+      "input": "شنو هي الخدمات اللي كتقدمها المراكز الجامعية؟",
+      "output": "المراكز الجامعية كتقدم التسجيل فالدراسات العليا، الأحياء الجامعية، والمكتبات.",
+      "instruction": "Les centres universitaires offrent l'inscription aux études supérieures, des résidences universitaires et des bibliothèques."
+  },
+  {
+      "input": "كيفاش نقدر نسجل مولودي فحالة الولادة فدار؟",
+      "output": "باش تسجل مولودك فحالة الولادة فدار، تمشي للمقاطعة ومعاك شهادة الولادة اللي كيوقعها الطبيب أو المولد.",
+      "instruction": "Pour enregistrer un nouveau-né né à domicile, vous devez vous rendre à la commune avec le certificat de naissance délivré par le médecin ou la sage-femme."
+  },
+  {
+      "input": "شنو هي الإجراءات باش ندير بطاقة الطالب؟",
+      "output": "باش تدير بطاقة الطالب، تسجل فالجامعة ومعاك شهادة الباكالوريا وصورتين شمسيتين.",
+      "instruction": "Pour obtenir une carte d'étudiant, inscrivez-vous à l'université avec votre diplôme de baccalauréat et deux photos."
+  }
+,
+  {
+    "input": "كيفاش نقدر نستافد من برامج \"المقاول الذاتي\"؟",
+    "output": "باش تستافد من برامج \"المقاول الذاتي\"، تسجل فالموقع الإلكتروني الرسمي ومعاك البطاقة الوطنية ومعلومات عن المشروع ديالك.",
+    "instruction": "Pour bénéficier des programmes d'auto-entrepreneur, inscrivez-vous sur le site officiel avec votre carte d'identité et les informations sur votre projet."
+  },
+  {
+    "input": "شنو هي الخدمات اللي كتوفرها مراكز حماية الطفولة؟",
+    "output": "مراكز حماية الطفولة كتقدم الإيواء للأطفال اللي ف وضعية صعبة، وكتوفر لهم التربية والتكوين المهني.",
+    "instruction": "Les centres de protection de l'enfance offrent l'hébergement pour les enfants en difficulté, ainsi que l'éducation et la formation professionnelle."
+  },
+  {
+    "input": "شنو هي الوثائق باش ندير بطاقة التعريف الوطنية لأول مرة؟",
+    "output": "باش تدير بطاقة التعريف الوطنية لأول مرة، خصك تجيب عقد الازدياد، شهادة السكنى، وصورتين شمسيتين.",
+    "instruction": "Pour obtenir une carte d'identité nationale pour la première fois, vous devez fournir un acte de naissance, un certificat de résidence et deux photos."
+  },
+  {
+    "input": "كيفاش نقدر نستافد من برنامج دعم الأرامل؟",
+    "output": "باش تستافد من برنامج دعم الأرامل، تسجل فالمصالح الإدارية ومعاك شهادة وفاة الزوج وشهادة تكفل بالأبناء.",
+    "instruction": "Pour bénéficier du programme de soutien aux veuves, inscrivez-vous à la section administrative avec le certificat de décès du mari et un document attestant de la garde des enfants."
+  },
+  {
+    "input": "شنو هي الإجراءات باش نسجل مشروع صغير؟",
+    "output": "باش تسجل مشروع صغير، خصك تفتح سجل تجاري فالمحكمة التجارية ومعاك البطاقة الوطنية وشهادة السكنى.",
+    "instruction": "Pour enregistrer une petite entreprise, ouvrez un registre commercial au tribunal de commerce avec votre carte d'identité et un certificat de résidence."
+  }
+,
+  {
+    "input": "كيفاش نقدر ندير جواز السفر البيومتري؟",
+    "output": "باش دير جواز السفر البيومتري، خصك تمشي لملحقة الإدارة العامة للأمن الوطني. كتجيب معاك استمارة معمرة مزيان، وصورة شخصية اللي خاصها تكون متوافقة مع المعايير ديال جواز السفر. ممكن تطلب منك بطاقة التعريف الوطنية، و تأكد واش خاصك تدير موعد مسبق أو لا. من بعد، غادي يتم تحديد موعد باش تعطيهم البصمات ديالك.",
+    "instruction": "Pour obtenir un passeport biométrique, allez à la Direction Générale de la Sécurité Nationale avec le formulaire rempli et une photo d'identité conforme. Vous devrez également présenter votre carte d'identité nationale. Vérifiez si un rendez-vous est nécessaire ou si vous pouvez vous présenter directement. Une fois sur place, vous devrez fournir vos empreintes digitales."
+  },
+  {
+    "input": "شنو هي الخدمات اللي كتقدمها الوكالة الوطنية لإنعاش التشغيل؟",
+    "output": "الوكالة الوطنية لإنعاش التشغيل كتقدم خدمات كثيرة. من بينها فرص العمل فالقطاعين العام والخاص. كتدير تكوينات مهنية فمجالات متنوعة بحال الصناعة، التجارة، والخدمات. وكاينين كذالك برامج لدعم المقاولين الذاتيين، بحال المساعدة فإعداد المشاريع، الاستشارات القانونية والمالية، ومساعدات لتطوير الأنشطة الاقتصادية الصغيرة.",
+    "instruction": "L'Agence Nationale de Promotion de l'Emploi et des Compétences offre divers services, tels que des opportunités d'emploi dans les secteurs public et privé. Elle propose aussi des formations professionnelles dans des domaines variés tels que l'industrie, le commerce et les services. De plus, elle soutient les auto-entrepreneurs en offrant des conseils sur la création de projets, des consultations juridiques et financières, ainsi que des aides pour le développement d'activités économiques locales."
+  },
+  {
+    "input": "كيفاش نقدر نحصل على شهادة العزوبة؟",
+    "output": "باش تحصل على شهادة العزوبة، خصك تمشي للمقاطعة اللي تابعة ليها وتجيب معاك بطاقة التعريف الوطنية. كتطلب الشهادة مباشرة من المكتب المسؤول. فبعض الأحيان، ممكن يطلبوا منك شي وثائق إضافية بحال شهادة السكنى أو وثيقة من العمل. الشهادة غالبًا كتكون جاهزة فمدة قصيرة.",
+    "instruction": "Pour obtenir un certificat de célibat, allez à la commune dont vous dépendez avec votre carte d'identité nationale. Demandez directement le certificat au guichet. Parfois, des documents supplémentaires comme un certificat de résidence ou une attestation de travail peuvent être demandés. En général, le certificat est délivré dans un délai court."
+  },
+  {
+    "input": "شنو هي الوثائق المطلوبة باش ندير توصيل كهربائي جديد؟",
+    "output": "باش تدير توصيل كهربائي جديد، خصك توفر عدة وثائق. من بينها عقد الملكية ديال المنزل أو عقد الكراء إذا كنت مستأجر، ورخصة السكن، وتصميم الكهرباء اللي معمروه مهندس كهربائي. تأكد من أن كل الوثائق كاملة باش ما يكونش أي تأخير فالإجراءات. من بعد، غادي يتم تحديد موعد باش يجيوا يعملوا التوصيل.",
+    "instruction": "Pour obtenir un raccordement électrique, vous devez fournir l'acte de propriété de votre bien ou un contrat de location si vous êtes locataire, ainsi qu'un permis de construire ou un certificat de résidence. Vous devrez aussi soumettre un plan électrique signé par un ingénieur électricien. Assurez-vous que tous les documents sont complets pour éviter tout retard. Un rendez-vous sera fixé pour effectuer le raccordement."
+  },
+  {
+    "input": "كيفاش نقدر نحصل على شهادة السكنى؟",
+    "output": "باش تحصل على شهادة السكنى، خصك تمشي للمقاطعة وتجيب معاك نسخة من بطاقة التعريف الوطنية ديالك، وعقد الكراء أو عقد الملكية ديال المنزل اللي ساكن فيه. من بعد، كتقدم طلب الشهادة، وفحال فبعض الحالات قد يطلبوا منك شي وثائق إضافية بحال فواتير الماء أو الكهرباء، باش يتأكدوا من السكن ديالك. الشهادة كتكون عادة جاهزة فمدة قصيرة.",
+    "instruction": "Pour obtenir un certificat de résidence, vous devez vous rendre à la commune avec une copie de votre carte d'identité nationale et un contrat de location ou un acte de propriété de votre logement. Ensuite, vous ferez la demande pour le certificat. Dans certains cas, des documents supplémentaires comme des factures d'eau ou d'électricité peuvent être demandés pour confirmer votre lieu de résidence. Le certificat est généralement disponible dans un délai court."
+  }
+,
+  {
+    "input": "شنو هي الإجراءات باش نخرج نسخة من عقد الزواج؟",
+    "output": "باش تحصل على نسخة من عقد الزواج، خصك تمشي للمحكمة أو مكتب الحالة المدنية فالجماعة اللي تسجل فيها الزواج. خصك تقدم طلب مكتوب، وكتجيب معاك بطاقة التعريف الوطنية ديالك. من بعد، غادي يعطيوك نسخة من العقد وكيكون عندك الحق في طلب النسخ إضافية إذا كنت محتاجها. من الأفضل تسول واش خاصك تدير موعد مسبق أو تقدر تمشي مباشرة.",
+    "instruction": "Pour obtenir une copie de l'acte de mariage, vous pouvez la demander au tribunal ou au bureau de l'état civil dans la commune où le mariage a été enregistré. Présentez votre carte d'identité nationale et faites une demande écrite. Vous aurez la possibilité de demander plusieurs copies si nécessaire. Renseignez-vous si un rendez-vous est nécessaire avant de vous déplacer."
+  },
+  {
+    "input": "كيفاش نقدر نستافد من النقل المدرسي فالقرى؟",
+    "output": "باش تستافد من النقل المدرسي فالقُرى، خصك تسجل مع الجمعيات المحلية اللي مكلفة بالنقل المدرسي أو مع الجماعة المحلية. كتقدم الطلب ديالك مع بعض الوثائق بحال بطاقة التعريف الوطنية أو شهادة سكنى، حسب ما يطلبوه منك. فحالياً، كاينين بعض الجمعيات اللي كتدير هذه الخدمة في بعض المناطق، وضروري تتأكد من المواعيد ديال التسجيل.",
+    "instruction": "Pour bénéficier du transport scolaire dans les villages, inscrivez-vous auprès des associations responsables ou de la commune locale. Vous devrez fournir des documents tels que votre carte d'identité ou un certificat de résidence, selon les exigences locales. Vérifiez les dates d'inscription et les modalités d'inscription auprès de votre mairie ou des associations."
+  },
+  {
+    "input": "شنو هي الخدمات اللي كتقدمها مديرية الضرائب؟",
+    "output": "مديرية الضرائب كتقدم مجموعة من الخدمات المهمة. من بينها التصريحات الضريبية، اللي كتحتاج تقدمها سنوياً إذا كنت كتدفع الضرائب. كتقدر تدير الدفع ديالك إلكترونيًا أو فالمكاتب ديال المديرية. كذلك، كتقدر تطلب شهادة الإعفاء إذا كنت معفى من الضرائب. بعض الأحيان، كتحتاج تقدم بعض الوثائق الإضافية بحال وثائق التوظيف أو دخل الفرد.",
+    "instruction": "La Direction des Impôts offre des services tels que la déclaration fiscale, le paiement des taxes et la délivrance de certificats d'exemption. Vous pouvez effectuer vos démarches en ligne ou vous rendre directement dans les bureaux de la direction. Des documents supplémentaires peuvent être requis, comme des preuves de revenus ou des attestations d'emploi."
+  },
+  {
+    "input": "كيفاش نقدر ندير شكاية ضد الإدارة؟",
+    "output": "باش تدير شكاية ضد الإدارة، خصك تمشي للمحكمة الإدارية أو تودع الشكاية ديالك فالعاملية أو الولاية. ضروري تقدم تفاصيل دقيقة على الشكوى ديالك، بحال الاسم ديال الإدارة، والموضوع، وتاريخ الواقعة. من بعد، غادي يتم التحقيق فالموضوع، وقد تطلب منك تقديم وثائق داعمة لشكواك.",
+    "instruction": "Pour déposer une plainte contre l'administration, vous pouvez vous rendre au tribunal administratif ou soumettre votre plainte à la préfecture. Assurez-vous de fournir des informations détaillées concernant l'administration concernée, l'objet de la plainte et la date des faits. Vous pourriez être invité à fournir des documents supplémentaires pour soutenir votre plainte."
+  },
+  {
+    "input": "شنو هي الوثائق المطلوبة باش نسجل الولادة فالحالة المدنية؟",
+    "output": "باش تسجل الولادة فالحالة المدنية، خصك تجيب شهادة الولادة الأصلية اللي جاتك من المستشفى أو المولدة. ومن بعد، خصك تجيب صورة من بطاقة التعريف الوطنية ديال الأب أو الأم. في بعض الحالات، يمكن يطلبوا منك وثائق إضافية بحال شهادة الزواج ديال الأب والأم. هاديك الشهادة غادي تكون جاهزة في أقرب وقت.",
+    "instruction": "Pour enregistrer une naissance à l'état civil, vous devez fournir l'acte de naissance original délivré par l'hôpital ou la sage-femme. Vous devrez également présenter une copie de la carte d'identité nationale du père ou de la mère. Parfois, un certificat de mariage des parents peut être demandé. Le certificat de naissance sera généralement prêt dans un délai court."
+  }
+,
+  {
+    "input": "كيفاش نقدر نستافد من برنامج تيسير؟",
+    "output": "باش تستافد من برنامج تيسير، خصك تسجل مع المدرسة ديال وليدك وتقدم طلب الاستفادة. كتجيب معاك بعض الوثائق بحال نسخة من بطاقة التعريف الوطنية ديالك، ونسخة من بطاقة التعريف الوطنية ديال الأب أو الأم، بالإضافة لنسخة من شهادة التسجيل ديال وليدك فالمؤسسة التعليمية. من بعد، غادي يتم قبول الطلب ديالك وإذا كانت كل الوثائق صحيحة، غادي تستافد من المساعدة.",
+    "instruction": "Veuillez vous inscrire à l'école de votre enfant et soumettre une demande de participation avec les documents requis. Vous devrez fournir une copie de votre carte d'identité nationale, une copie de celle des parents, ainsi qu'une copie du certificat d'inscription de votre enfant dans l'établissement scolaire. Une fois le dossier complet, votre demande sera traitée."
+  },
+  {
+    "input": "شنو هي الإجراءات باش ندير رخصة البناء؟",
+    "output": "باش تدير رخصة البناء، خصك تقدم طلب فالجماعة المحلية، مع تقديم تصميم البناء اللي تكون فيه تفاصيل المبنى والمواد اللي غادي تستعمل. بالإضافة لذلك، خصك تجيب شهادة الملكية اللي تثبت أنك المالك ديال الأرض أو العقار اللي غادي تبني عليه. من بعد، غادي يتم دراسة الملف ديالك، وإذا كانت كل الوثائق صحيحة، غادي يصدروا ليك رخصة البناء.",
+    "instruction": "Soumettez une demande auprès de la commune locale avec le plan de construction détaillant la conception du bâtiment et les matériaux à utiliser. Vous devez également fournir un certificat de propriété pour prouver que vous êtes le propriétaire du terrain ou de la propriété sur laquelle vous souhaitez construire. Une fois le dossier complet, il sera examiné et, si tout est en ordre, un permis de construire vous sera délivré."
+  },
+  {
+    "input": "كيفاش نقدر ندير تأمين صحي للأطفال؟",
+    "output": "باش تدير تأمين صحي للأطفال، خصك تسجلهم فCNSS أو راميد. كتجيب معاك عقود ازدياد ديال الأطفال، وكذا بطاقة التعريف الوطنية ديالك. من بعد، غادي يتم تحديد نوع التأمين المناسب ليهم سواء فCNSS أو راميد حسب الحالة الاجتماعية ديالك. في بعض الأحيان، ممكن تحتاج تقدم شواهد إضافية بحال عقد العمل أو شهادة الدخل.",
+    "instruction": "Inscrivez vos enfants à la CNSS ou RAMED en fournissant leurs actes de naissance et votre carte d'identité. Ensuite, selon votre situation sociale, le type d'assurance (CNSS ou RAMED) sera déterminé pour vos enfants. Parfois, des documents supplémentaires tels qu'un contrat de travail ou un justificatif de revenus peuvent être demandés."
+  },
+  {
+    "input": "شنو هي الخدمات اللي كتقدمها المراكز الفلاحية؟",
+    "output": "المراكز الفلاحية كتقدم العديد من الخدمات للمزارعين. من بينها الإرشادات الفلاحية حول كيفية تحسين الإنتاج الزراعي، الدعم فالمعدات الفلاحية بحال الآلات والسماد، بالإضافة للتكوينات فالمجال الفلاحي لتطوير مهارات الفلاحين في تقنيات الزراعة الحديثة. كاينين كذالك برامج خاصة لتمويل المشاريع الفلاحية الصغرى والمتوسطة.",
+    "instruction": "Les centres agricoles fournissent des conseils aux agriculteurs pour améliorer la production agricole, un soutien en matériel agricole comme les machines et les fertilisants, ainsi que des formations dans les techniques agricoles modernes. Ils offrent également des programmes de financement pour les petites et moyennes exploitations agricoles."
+  },
+  {
+    "input": "كيفاش نقدر نحصل على شهادة الوفاة؟",
+    "output": "باش تحصل على شهادة الوفاة، خصك تمشي للمقاطعة ومعاك شهادة طبية من الطبيب أو المستشفى اللي تثبت الوفاة. من بعد، كتطلب الشهادة مباشرة من مكتب الحالة المدنية اللي كيصدرها. في بعض الأحيان، ممكن يطلبوا منك بعض الوثائق الإضافية بحال بطاقة التعريف الوطنية ديالك أو شهادة السكنى.",
+    "instruction": "Allez à la commune avec un certificat médical attestant le décès. Vous pourrez alors faire la demande de certificat de décès directement au bureau de l'état civil. Parfois, des documents supplémentaires tels que votre carte d'identité ou un certificat de résidence peuvent être demandés."
+  }
+,
+  {
+    "input": "شنو هي الوثائق المطلوبة باش نسجل السيارة؟",
+    "output": "باش تسجل السيارة، خصك تجيب عقد الشراء ديال السيارة، شهادة التأمين اللي كتوفرها شركة التأمين، و شهادة الملكية المؤقتة اللي كتجي من المصلحة المكلفة بالتسجيل. هاد الوثائق كلها ضرورية باش تسجل السيارة فالدائرة المختصة وتستلم الوثائق القانونية ديال السيارة.",
+    "instruction": "Apportez le contrat d'achat de la voiture, le certificat d'assurance fourni par la compagnie d'assurance, et le certificat de propriété temporaire émis par l'autorité compétente pour l'enregistrement. Ces documents sont nécessaires pour enregistrer le véhicule auprès des autorités locales et recevoir les documents légaux relatifs à la voiture."
+  },
+  {
+    "input": "كيفاش نقدر نستافد من برنامج 'مدن بدون صفيح'؟",
+    "output": "باش تستافد من برنامج 'مدن بدون صفيح'، خصك تقدم طلب للعمالة أو الجهات المختصة مع الوثائق اللي كتثبت وضعيتك الاجتماعية، بحال شهادة السكنى أو أي وثيقة أخرى اللي تبرهن على الحالة ديالك فالسكن. هاد الوثائق كتعطيك الحق فالإستفادة من المشروع إذا كنت تتوفر على الشروط.",
+    "instruction": "Soumettez votre demande à la préfecture ou à l'autorité compétente, accompagnée des documents prouvant votre situation sociale, tels que le certificat de résidence ou toute autre pièce justifiant votre condition en matière de logement. Ces documents vous donneront droit à une éventuelle participation au programme, sous réserve de répondre aux critères requis."
+  },
+  {
+    "input": "شنو هي الخدمات اللي كتقدمها مكاتب السلامة الصحية؟",
+    "output": "مكاتب السلامة الصحية كتقدم خدمات متعلقة بمراقبة جودة الأغذية والأدوية البيطرية، وكذلك صحة النباتات. هاد المكاتب كتراقب وكتفحص المواد الغذائية باش تتأكد من سلامتها، وكذالك الأدوية اللي كتستخدم فالعلاج البيطري والنباتات الزراعية لضمان أنها خالية من الأمراض أو العوامل السامة.",
+    "instruction": "Les bureaux de sécurité sanitaire offrent des services de contrôle de la qualité des aliments, des médicaments vétérinaires et de la santé des plantes. Ils veillent à la conformité des produits alimentaires, des médicaments utilisés en vétérinaire, ainsi qu'à la santé des plantes, afin de garantir leur sécurité et leur absence de contaminants ou de maladies."
+  },
+  {
+    "input": "كيفاش نقدر ندير طلب الاستفادة من السكن الاجتماعي؟",
+    "output": "باش تدير طلب الاستفادة من السكن الاجتماعي، خصك تقدم طلب للوكالة الحضرية أو للشركة المكلفة بالمشروع السكني اللي تابعة له. خصك تجيب معاك بعض الوثائق اللي كتبرهن على الوضعية الاجتماعية ديالك، بحال شهادة السكنى، بطاقة التعريف الوطنية، وعدد من الوثائق المالية حسب المتطلبات.",
+    "instruction": "Soumettez une demande à l'agence urbaine ou à l'entreprise chargée du projet de logement social, accompagnée des documents justifiant votre situation sociale, tels que le certificat de résidence, votre carte d'identité nationale, ainsi que des documents financiers ou autres exigences selon le programme de logement."
+  },
+  {
+    "input": "شنو هي الإجراءات باش نغير مكان الإقامة فالوثائق؟",
+    "output": "باش تغير مكان الإقامة فالوثائق، خصك تقدم طلب جديد للحصول على شهادة السكنى بالمكان الجديد. كاتمشي للمقاطعة أو الجماعة المحلية وتجيب معاك الوثائق اللي كتوفرها بحال عقد الكراء أو شهادة ملكية العقار الجديد، بالإضافة لنسخة من بطاقة التعريف الوطنية.",
+    "instruction": "Soumettez une nouvelle demande pour obtenir un certificat de résidence à votre nouvelle adresse. Rendez-vous à la commune ou à la mairie avec les documents nécessaires, tels qu'un contrat de location ou un acte de propriété du nouveau logement, ainsi qu'une copie de votre carte d'identité nationale."
+  }
+,
+  {
+    "input": "كيفاش نقدر نستافد من برامج إعادة الإدماج للسجناء؟",
+    "output": "كاين برامج ديال التكوين والتأهيل المهني داخل السجون اللي كتساعد السجناء باش يكتسبو مهارات مهنية جديدة ويقدروا يندمجو فالمجتمع بعد الإفراج عليهم. هاد البرامج كتكون فمجالات متعددة بحال الحرف، الحاسوب، والتدبير.",
+    "instruction": "Il existe des programmes de formation et de réinsertion professionnelle à l'intérieur des prisons, qui aident les détenus à acquérir de nouvelles compétences professionnelles dans divers domaines tels que l'artisanat, l'informatique et la gestion, afin de faciliter leur réintégration dans la société après leur libération."
+  },
+  {
+    "input": "شنو هي الخدمات اللي كتقدمها مكاتب التشغيل فالجماعات؟",
+    "output": "مكاتب التشغيل فالجماعات كتقدم خدمات متنوعة بحال عقود الشغل المؤقتة، دعم المبادرات ديال التشغيل للباحثين عن العمل، وتسجيل فأنشطة جماعية مثل ورشات تكوينية أو لقاءات مع الشركات.",
+    "instruction": "Les bureaux de l'emploi dans les communes offrent des contrats de travail temporaires, un soutien aux initiatives de création d'emploi pour les chercheurs d'emploi, et vous permettent de vous inscrire à des activités communautaires comme des ateliers de formation ou des rencontres avec des entreprises locales."
+  },
+  {
+    "input": "كيفاش نقدر ندير طلب رخصة نقل البضائع؟",
+    "output": "باش تدير طلب رخصة نقل البضائع، خصك تمشي للعمالة أو مندوبية النقل مع الوثائق المتعلقة بالسيارة اللي غادي تستخدمها في النقل، بحال رخصة السير ديال السائق، و شهادة ملكية السيارة أو عقد الكراء ديالها.",
+    "instruction": "Allez à la préfecture ou à la délégation des transports avec les documents du véhicule que vous utiliserez pour le transport, comme le permis de conduire du chauffeur, ainsi que le certificat de propriété du véhicule ou le contrat de location."
+  },
+  {
+    "input": "شنو هي الوثائق المطلوبة باش نسجل مولود جديد فالحالة المدنية؟",
+    "output": "باش تسجل مولود جديد فالحالة المدنية، خصك تجيب شهادة الولادة الأصلية اللي تصدر من المستشفى أو الطبيب، وكذلك عقود الزواج ديال الوالدين باش تثبت علاقة النسب.",
+    "instruction": "Apportez l'acte de naissance original délivré par l'hôpital ou le médecin, ainsi que les contrats de mariage des parents pour prouver la relation de filiation."
+  },
+  {
+    "input": "كيفاش نقدر نستافد من خدمات مراكز محو الأمية؟",
+    "output": "باش تستافد من خدمات مراكز محو الأمية، خصك تسجل فالمصلحة أو الملحقة الإدارية القريبة ليك. كاين برامج مجانية ديال محو الأمية اللي كتساعد الناس باش يقراو و يكتبو، وغالبا كتكون موجهة للأشخاص اللي ماعندهمش مستوى دراسي.",
+    "instruction": "Inscrivez-vous dans la succursale administrative la plus proche de chez vous et participez aux programmes gratuits de lutte contre l'analphabétisme, qui aident les participants à apprendre à lire et à écrire, généralement destinés aux personnes n'ayant pas de niveau d'étude."
+  }
+,
+  {
+    "input": "شنو هي الإجراءات باش نكري محل تجاري من الدولة؟",
+    "output": "باش تكري محل تجاري من الدولة، خصك تقدم طلب فالمصلحة الاقتصادية ديال الجماعة، مع دراسة جدوى للمشروع اللي بغيتي دير. هاد الدراسة خصها تبين كيفاش غادي تكون فاعلية المشروع ديالك من الناحية الاقتصادية.",
+    "instruction": "Soumettez une demande auprès du service économique de la commune avec une étude de faisabilité du projet, qui devra démontrer la viabilité économique de votre projet."
+  },
+  {
+    "input": "كيفاش نقدر نستافد من خدمة التأمين الإجباري عن المرض؟",
+    "output": "باش تستافد من التأمين الإجباري عن المرض، خصك تسجل فالCNSS إذا كنت خدام فواحد القطاع خاص أو عام، أو فAMO إذا كنت منخرط فالتأمينات الاجتماعية.",
+    "instruction": "Inscrivez-vous à la CNSS si vous êtes salarié dans le secteur public ou privé, ou à l'AMO si vous êtes inscrit à la sécurité sociale."
+  },
+  {
+    "input": "شكون كيتكلف بالسلامة فالطرقات؟",
+    "output": "السلامة فالطرقات كيتكلف بها الدرك الملكي فطرق الوطنية، أما فالمناطق الحضرية فتكون مسؤولية الشرطة.",
+    "instruction": "La sécurité routière est assurée par la gendarmerie sur les routes nationales et par la police dans les zones urbaines."
+  },
+  {
+    "input": "شنو هي الأوقات اللي كتخدم فيها المقاطعات؟",
+    "output": "المقاطعات غالباً كتخدم من الساعة 8 صباحاً حتى 4:30 عشية، ما عدا يوم السبت والأحد، حيث ما كاينش العمل فهاد الأيام.",
+    "instruction": "Les heures d'ouverture des communes sont généralement de 8h du matin à 16h30, à l'exception du samedi et dimanche, où les services ne sont pas disponibles."
+  },
+  {
+    "input": "واش ممكن ندير الشكاية ضد موظف فالإدارة؟",
+    "output": "نعم، تقدر تقدم شكايتك للعمالة أو عبر الموقع الرسمي للبوابة الوطنية للشكايات، اللي كتسمح لك تقدم الشكاية بشكل إلكتروني.",
+    "instruction": "Oui, vous pouvez déposer une plainte à la préfecture ou via la plateforme nationale des plaintes, qui permet de soumettre des plaintes en ligne."
+  }
+,
+  {
+    "input": "كيفاش نقدر نستافد من برنامج تيسير؟",
+    "instruction": "Inscris-toi dans l’établissement scolaire où ton enfant est inscrit et fournis les documents concernant tes revenus.",
+    "output": "باش تستافد من برنامج تيسير، خصك تسجل ولدك فالمؤسسة التعليمية اللي كيقرأ فيها، و من بعد تقدم طلب الاستفادة مع وثائق تخص دخلك الشهري مثل كشف الحساب البنكي أو وثائق التوظيف اللي كيبينوا الدخل ديالك. هاد الوثائق كتمكن من تحديد الاستفادة من البرنامج اللي كيساعد في تكاليف الدراسة."
+  },
+  {
+    "input": "شنو كيقدم الصندوق المغربي للتقاعد؟",
+    "instruction": "Le Fonds Marocain de Retraite verse les pensions aux fonctionnaires et retraités.",
+    "output": "الصندوق المغربي للتقاعد كيوفر معاشات التقاعد للموظفين العموميين اللي خدمو لفترة معينة فالدولة و وصلو لسن التقاعد. كيتم صرف هاد المعاش شهرياً، و كيقدر يشتمل على تعويضات صحية و مزايا أخرى. كذلك كيقدم تغطية صحية و تعويضات في حالة العجز أو الوفاة."
+  },
+  {
+    "input": "كيفاش نقدر نسجل فالسجل الوطني للسكان؟",
+    "instruction": "Va au centre d'enregistrement le plus proche avec ta carte d'identité nationale.",
+    "output": "باش تسجل فالسجل الوطني للسكان، خاصك تمشي لأقرب مركز تسجيل تابع للجماعة أو المقاطعة ديالك. كتجيب معاك بطاقة التعريف الوطنية ديالك، و في بعض الحالات، خاصك تجيب الوثائق اللي كتثبت مكان سكنك مثل عقد الإيجار أو فاتورة الماء أو الكهرباء. التسجيل فالسجل كيتم باش تكون مدرج فالإحصاءات الرسمية و التعداد السكاني."
+  },
+  {
+    "input": "شنو هي الخدمات اللي كتقدمها وكالة السلامة الطرقية؟",
+    "instruction": "L'Agence de sécurité routière organise des campagnes de sensibilisation, surveille les véhicules, et donne des conseils aux conducteurs.",
+    "output": "وكالة السلامة الطرقية كتقوم بالعديد من الأنشطة لضمان سلامة السائقين والمواطنين. من بين الخدمات: تنظيم حملات توعية حول احترام قوانين السير، و مراقبة السيارات باش تتأكد من أنها تستوفي المعايير التقنية والسلامة، و تقديم نصائح للسائقين بخصوص القيادة الآمنة والوقاية من الحوادث. كاينين كذالك برامج لتوعية الناس في المدارس و الجامعات."
+  },
+  {
+    "input": "واش كاين مساعدة للأمهات العازبات؟",
+    "instruction": "Des associations offrent un soutien psychologique, financier et juridique aux mères célibataires.",
+    "output": "كاينين بعض الجمعيات في المغرب اللي كتقدم مساعدة شاملة للأمهات العازبات. هاد المساعدة كتكون في عدة مجالات: الدعم النفسي باش يساعدوهم على تجاوز الصعوبات الشخصية والاجتماعية، الدعم المالي كيوفر لهم مساعدات مالية شهرية أو مساعدات عينية، و الدعم القانوني كيساعدوهم في قضايا النفقة أو حقوق الأطفال. هاد الجمعيات كتعمل على تحسين الظروف الاجتماعية والاقتصادية للأمهات العازبات و أطفالهم."
+  }
+,
+  {
+    "input": "كيفاش نقدر نسجل شكاية فالمكتب الوطني للكهرباء؟",
+    "instruction": "Tu peux contacter le numéro des plaintes ou te rendre à l'agence la plus proche.",
+    "output": "باش تسجل شكاية فالمكتب الوطني للكهرباء، تقدر تتصل برقم الشكايات المخصص ليهم و اللي كاين فالموقع ديالهم أو تمشي مباشرة لأقرب وكالة تابعة للمكتب. إذا كانت عندك مشكلة مع الخدمة أو فاتورة الكهرباء، تقدر تقدم الشكاية و يتبعوها بطرق رسمية."
+  },
+  {
+    "input": "شنو هي الحقوق ديال المستهلك فالمغرب؟",
+    "instruction": "Les consommateurs ont le droit à la qualité, à la sécurité et à pouvoir porter plainte si le produit est non conforme.",
+    "output": "المستهلكين فالمغرب عندهم الحق فالجودة ديال المنتوجات والخدمات اللي كيشتروا. إلا كان المنتوج غير مطابق لما هو معروض أو مضر بالصحة، عندهم الحق فالتقديم شكاية. كاين قانون يحميهم و كيضمن لهم حقوقهم فحال رد المنتوج أو التعويض."
+  },
+  {
+    "input": "واش ممكن نحصل على دعم باش نركب الطاقة الشمسية؟",
+    "instruction": "Oui, l'État propose des programmes de soutien pour les énergies renouvelables.",
+    "output": "نعم، الدولة المغربية كتوفر برامج دعم باش تركب الطاقات المتجددة مثل الألواح الشمسية. هاد الدعم كيشمل جزء من تكاليف التركيب و شراء المعدات. يمكن تقديم طلب الدعم من خلال الوكالات المختصة اللي كتتبع هاد البرامج في الوزارات المعنية."
+  },
+  {
+    "input": "شنو كيقدم صندوق التكافل العائلي؟",
+    "instruction": "Le Fonds de solidarité familiale offre une compensation pour les femmes divorcées qui ne reçoivent pas de pension alimentaire.",
+    "output": "صندوق التكافل العائلي كيقدم تعويضات مالية للنساء المطلقات اللي ما كيتوصلوش بالنفقة من الزوج السابق. هاد الصندوق كيساعد فالمصروفات اليومية و تكاليف الحياة باش يحسن الوضعية الاجتماعية و الاقتصادية ديالهم و ديال أطفالهم."
+  },
+  {
+    "input": "كيفاش نقدر نطلب شهادة الحياة الإدارية؟",
+    "instruction": "Va à la municipalité avec ta carte d'identité nationale.",
+    "output": "باش تطلب شهادة الحياة الإدارية، خاصك تمشي للمقاطعة أو البلدية مع بطاقة التعريف الوطنية ديالك. الشهادة كتعطيك الحق فالإثبات ديال مكان إقامتك و الحالة الإدارية ديالك."
+  }
+,
+  {
+    "input": "شنو هو دور الوكالة الوطنية للمحافظة العقارية؟",
+    "instruction": "L'agence nationale de la conservation foncière enregistre les propriétés immobilières et délivre des titres de propriété.",
+    "output": "الوكالة الوطنية للمحافظة العقارية هي المسؤولة على توثيق الأملاك العقارية فالمغرب. هي اللي كتهتم بتسجيل الممتلكات العقارية فالسجلات الرسمية باش تضمن حقوق الناس في الملكية. وكتقدم رسم الملكية، وهو وثيقة قانونية كتأكد ملكية العقار. هاد الوثيقة ضرورية إذا بغيت تبيع العقار أو تدير عليه شي إجراءات قانونية. باش تحصل على رسم ملكية، خاصك تقدم الوثائق اللي كتوثق الملكية ديالك، بحال عقد الشراء أو عقد الملكية، وكتخلص شي رسوم إدارية."
+  },
+  {
+    "input": "كيفاش نقدر نشارك فالمبادرة الوطنية للتنمية البشرية؟",
+    "instruction": "Soumets ton projet aux autorités locales ou à la préfecture.",
+    "output": "المبادرة الوطنية للتنمية البشرية هي برنامج حكومي الهدف منه تحسين الوضع الاجتماعي والاقتصادي، خصوصاً فالمناطق النائية. باش تشارك فهاد البرنامج، خاصك تقدم المشروع ديالك للسلطات المحلية أو للعمالة. المشروع ديالك خصو يكون عندو تأثير إيجابي على المجتمع، وخصو يساهم فالتنمية ديال المنطقة. وديما خاصك تقدم مع المشروع دراسة جدوى أو خطة عمل، وهادشي كيتم تقييمو من طرف الجهات المختصة."
+  },
+  {
+    "input": "شنو هي الخدمات اللي كتوفرها الوكالة الوطنية لإنعاش التشغيل؟",
+    "instruction": "L'agence offre des opportunités d'emploi, des formations et des programmes pour soutenir les chercheurs d'emploi.",
+    "output": "الوكالة الوطنية لإنعاش التشغيل كتقدم مجموعة من الخدمات للناس اللي كيبحثو على خدمة. كتساعدهم باش يلقاو فرص شغل سواء كانت مؤقتة أو دائمة، وكتنظم تكوينات فمجالات مختلفة. كتعطي كدالك برامج لدعم التشغيل الذاتي، يعني مساعدات للي بغى يدير مشروع صغير. كيكونو هناك ورشات عمل اللي كتساعد الناس يكتبو السيرة الذاتية ديالهم أو يديرو تكوينات في مهارات البحث عن عمل."
+  },
+  {
+    "input": "واش كاين دعم للشباب المقاولين؟",
+    "instruction": "Oui, il existe des programmes comme 'InstaStart' et 'Opportunity' qui offrent un soutien financier et technique.",
+    "output": "نعم، كاينين برامج مخصصة للشباب المقاولين فالمغرب بحال 'انطلاقة' و 'فرصة'. هاد البرامج كتوفر دعم مالي وتقني للشباب اللي باغيين يبدؤو مشاريع خاصة بهم. الدعم المالي كيشمل قروض ميسرة أو منح لتمويل المشاريع، والدعم التقني كيشمل استشارات، توجيه فالدراسة الاقتصادية للمشروع، ودورات تكوينية. هاد الدعم كيشجع الشباب باش يبداو مشاريع جديدة ويساهمو فتنمية الاقتصاد الوطني."
+  },
+  {
+    "input": "كيفاش نحصل على شهادة الملكية العقارية؟",
+    "instruction": "Va au service de la conservation foncière et demande-la contre rémunération.",
+    "output": "باش تحصل على شهادة الملكية العقارية، خاصك تمشي لمصلحة المحافظة العقارية وتقدم الطلب ديالك. غادي تحتاج تقدم بعض الوثائق بحال عقد الشراء أو عقد الملكية ديالك. بعد ما تقدم الوثائق المطلوبة وتخلص الرسوم، غادي يقدمو لك شهادة الملكية. هادي وثيقة قانونية كتأكد أنك المالك الشرعي للعقار وكتقدر تستخدمها فالمعاملات القانونية أو البيع ديال العقار."
+  }
+,
+  {
+    "input": "شنو هي الإجراءات باش نغير الحالة المدنية فالبطاقة؟",
+    "instruction": "Soumets une demande de modification à la mairie avec les documents justificatifs.",
+    "output": "باش تغير الحالة المدنية ديالك فالبطاقة الوطنية، خاصك تقدم طلب التغيير للملحقة الإدارية أو الجماعة المحلية. مع الطلب، خاصك تجيب الوثائق اللي كتثبت السبب ديال التغيير، بحال شهادة طلاق إذا كنت مفصول، أو شهادة زواج إذا كنت تزوجت، أو أي وثيقة أخرى كتوضح التغيير اللي بغيت تدير. من بعد ما تقدم الوثائق، غادي يتم دراسة الطلب وكتوصلك البطاقة الجديدة مع التغيير المطلوب."
+  },
+  {
+    "input": "كيفاش نقدر نشارك فبرامج التكوين المهني؟",
+    "instruction": "Va dans les centres de formation professionnelle et inscris-toi selon la spécialité que tu souhaites.",
+    "output": "باش تشارك فبرامج التكوين المهني، خاصك تمشي لمراكز التكوين اللي كتوجد فمدينتك أو فالمناطق القريبة ليك. كيكونو مراكز متعددة فمجالات مختلفة، وكل واحد خاصو يسجل حسب التخصص اللي بغا يدرس. مثلاً، إذا كنت بغيتي تعلم الحرف اليدوية أو التكنولوجيا أو الطبخ، خاصك تختار المركز اللي كيقدم هاد التكوينات وتسجيل فيه. كتقدم مع الطلب ديالك الوثائق المطلوبة، بحال البطاقة الوطنية، وشهادات سابقة إذا كانو."
+  }
+
+
+]
